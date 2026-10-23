@@ -1,0 +1,15 @@
+{
+  "name": "college-event-registration-system",
+  "version": "1.0.0",
+  "description": "College Event Registration & Management System - Full-stack MERN with Monochrome Design & Firebase Auth",
+  "scripts": {
+    "install:all": "npm install && npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"white.bgBlack,black.bgWhite\" \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "seed": "node server/seed.js",
+    "start": "node server/server.js",
+    "build": "npm run build --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

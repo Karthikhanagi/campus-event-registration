@@ -1,0 +1,3826 @@
+{
+  "users": [
+    {
+      "uid": "admin_master_001",
+      "name": "System Administrator",
+      "email": "admin@college.edu",
+      "role": "admin",
+      "createdAt": "2026-07-25T14:17:04.124Z"
+    },
+    {
+      "uid": "student_alex_001",
+      "name": "Alex Smith",
+      "email": "alex.smith@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-13T14:17:04.124Z"
+    },
+    {
+      "uid": "student_priya_002",
+      "name": "Priya Patel",
+      "email": "priya.patel@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-18T14:17:04.124Z"
+    },
+    {
+      "uid": "student_marcus_003",
+      "name": "Marcus Vance",
+      "email": "marcus.vance@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-23T14:17:04.124Z"
+    },
+    {
+      "uid": "student_sarah_004",
+      "name": "Sarah Jenkins",
+      "email": "sarah.jenkins@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-28T14:17:04.124Z"
+    },
+    {
+      "uid": "student_david_005",
+      "name": "David Kim",
+      "email": "david.kim@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-03T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_1",
+      "name": "Olivia Jones",
+      "email": "olivia.jones1@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-09T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_2",
+      "name": "Noah Davis",
+      "email": "noah.davis2@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-10T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_3",
+      "name": "Emma Hernandez",
+      "email": "emma.hernandez3@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-11T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_4",
+      "name": "Oliver Wilson",
+      "email": "oliver.wilson4@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-12T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_5",
+      "name": "Ava Taylor",
+      "email": "ava.taylor5@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-13T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_6",
+      "name": "Elijah Sharma",
+      "email": "elijah.sharma6@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-14T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_7",
+      "name": "Charlotte Rao",
+      "email": "charlotte.rao7@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-15T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_8",
+      "name": "William Johnson",
+      "email": "william.johnson8@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-16T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_9",
+      "name": "Sophia Jones",
+      "email": "sophia.jones9@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-17T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_10",
+      "name": "James Davis",
+      "email": "james.davis10@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-18T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_11",
+      "name": "Amelia Hernandez",
+      "email": "amelia.hernandez11@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-19T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_12",
+      "name": "Benjamin Wilson",
+      "email": "benjamin.wilson12@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-20T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_13",
+      "name": "Isabella Taylor",
+      "email": "isabella.taylor13@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-21T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_14",
+      "name": "Lucas Sharma",
+      "email": "lucas.sharma14@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-22T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_15",
+      "name": "Mia Rao",
+      "email": "mia.rao15@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-23T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_16",
+      "name": "Henry Johnson",
+      "email": "henry.johnson16@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-24T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_17",
+      "name": "Evelyn Jones",
+      "email": "evelyn.jones17@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-25T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_18",
+      "name": "Alexander Davis",
+      "email": "alexander.davis18@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-26T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_19",
+      "name": "Harper Hernandez",
+      "email": "harper.hernandez19@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-27T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_20",
+      "name": "Rohan Wilson",
+      "email": "rohan.wilson20@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-28T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_21",
+      "name": "Ananya Taylor",
+      "email": "ananya.taylor21@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-29T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_22",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma22@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-30T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_23",
+      "name": "Diya Rao",
+      "email": "diya.rao23@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-01T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_24",
+      "name": "Kabir Johnson",
+      "email": "kabir.johnson24@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-02T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_25",
+      "name": "Isha Jones",
+      "email": "isha.jones25@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-03T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_26",
+      "name": "Reyansh Davis",
+      "email": "reyansh.davis26@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-04T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_27",
+      "name": "Tara Hernandez",
+      "email": "tara.hernandez27@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-05T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_28",
+      "name": "Arjun Wilson",
+      "email": "arjun.wilson28@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-06T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_29",
+      "name": "Meera Taylor",
+      "email": "meera.taylor29@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-07T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_30",
+      "name": "Liam Sharma",
+      "email": "liam.sharma30@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-08T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_31",
+      "name": "Olivia Rao",
+      "email": "olivia.rao31@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-09T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_32",
+      "name": "Noah Johnson",
+      "email": "noah.johnson32@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-10T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_33",
+      "name": "Emma Jones",
+      "email": "emma.jones33@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-11T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_34",
+      "name": "Oliver Davis",
+      "email": "oliver.davis34@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-12T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_35",
+      "name": "Ava Hernandez",
+      "email": "ava.hernandez35@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-13T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_36",
+      "name": "Elijah Wilson",
+      "email": "elijah.wilson36@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-14T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_37",
+      "name": "Charlotte Taylor",
+      "email": "charlotte.taylor37@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-15T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_38",
+      "name": "William Sharma",
+      "email": "william.sharma38@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-16T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_39",
+      "name": "Sophia Rao",
+      "email": "sophia.rao39@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-17T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_40",
+      "name": "James Johnson",
+      "email": "james.johnson40@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-18T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_41",
+      "name": "Amelia Jones",
+      "email": "amelia.jones41@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-19T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_42",
+      "name": "Benjamin Davis",
+      "email": "benjamin.davis42@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-20T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_43",
+      "name": "Isabella Hernandez",
+      "email": "isabella.hernandez43@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-21T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_44",
+      "name": "Lucas Wilson",
+      "email": "lucas.wilson44@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-22T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_45",
+      "name": "Mia Taylor",
+      "email": "mia.taylor45@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-23T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_46",
+      "name": "Henry Sharma",
+      "email": "henry.sharma46@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-24T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_47",
+      "name": "Evelyn Rao",
+      "email": "evelyn.rao47@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-25T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_48",
+      "name": "Alexander Johnson",
+      "email": "alexander.johnson48@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-26T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_49",
+      "name": "Harper Jones",
+      "email": "harper.jones49@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-27T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_50",
+      "name": "Rohan Davis",
+      "email": "rohan.davis50@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-28T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_51",
+      "name": "Ananya Hernandez",
+      "email": "ananya.hernandez51@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-29T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_52",
+      "name": "Aarav Wilson",
+      "email": "aarav.wilson52@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-30T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_53",
+      "name": "Diya Taylor",
+      "email": "diya.taylor53@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-01T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_54",
+      "name": "Kabir Sharma",
+      "email": "kabir.sharma54@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-02T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_55",
+      "name": "Isha Rao",
+      "email": "isha.rao55@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-03T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_56",
+      "name": "Reyansh Johnson",
+      "email": "reyansh.johnson56@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-04T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_57",
+      "name": "Tara Jones",
+      "email": "tara.jones57@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-05T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_58",
+      "name": "Arjun Davis",
+      "email": "arjun.davis58@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-06T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_59",
+      "name": "Meera Hernandez",
+      "email": "meera.hernandez59@college.edu",
+      "role": "student",
+      "createdAt": "2026-10-07T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_60",
+      "name": "Liam Wilson",
+      "email": "liam.wilson60@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-08T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_61",
+      "name": "Olivia Taylor",
+      "email": "olivia.taylor61@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-09T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_62",
+      "name": "Noah Sharma",
+      "email": "noah.sharma62@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-10T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_63",
+      "name": "Emma Rao",
+      "email": "emma.rao63@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-11T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_64",
+      "name": "Oliver Johnson",
+      "email": "oliver.johnson64@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-12T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_65",
+      "name": "Ava Jones",
+      "email": "ava.jones65@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-13T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_66",
+      "name": "Elijah Davis",
+      "email": "elijah.davis66@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-14T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_67",
+      "name": "Charlotte Hernandez",
+      "email": "charlotte.hernandez67@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-15T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_68",
+      "name": "William Wilson",
+      "email": "william.wilson68@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-16T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_69",
+      "name": "Sophia Taylor",
+      "email": "sophia.taylor69@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-17T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_70",
+      "name": "James Sharma",
+      "email": "james.sharma70@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-18T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_71",
+      "name": "Amelia Rao",
+      "email": "amelia.rao71@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-19T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_72",
+      "name": "Benjamin Johnson",
+      "email": "benjamin.johnson72@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-20T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_73",
+      "name": "Isabella Jones",
+      "email": "isabella.jones73@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-21T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_74",
+      "name": "Lucas Davis",
+      "email": "lucas.davis74@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-22T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_75",
+      "name": "Mia Hernandez",
+      "email": "mia.hernandez75@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-23T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_76",
+      "name": "Henry Wilson",
+      "email": "henry.wilson76@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-24T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_77",
+      "name": "Evelyn Taylor",
+      "email": "evelyn.taylor77@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-25T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_78",
+      "name": "Alexander Sharma",
+      "email": "alexander.sharma78@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-26T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_79",
+      "name": "Harper Rao",
+      "email": "harper.rao79@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-27T14:17:04.124Z"
+    },
+    {
+      "uid": "stu_gen_80",
+      "name": "Rohan Johnson",
+      "email": "rohan.johnson80@college.edu",
+      "role": "student",
+      "createdAt": "2026-09-28T14:17:04.124Z"
+    },
+    {
+      "_id": "e5ddc655e93d5556e00b1300",
+      "uid": "demo_1792766093902",
+      "name": "Demo Student",
+      "email": "k@1234.com",
+      "role": "student",
+      "createdAt": "2026-10-23T14:34:53.903Z"
+    }
+  ],
+  "events": [
+    {
+      "_id": "e5ddcad047fc9369fee7e838",
+      "title": "National AI & Robotics Symposium 2026",
+      "description": "Annual gathering of artificial intelligence researchers, student roboticists, and tech innovators featuring competitive coding hackathons and live autonomous drone demonstrations.",
+      "category": "Technical",
+      "date": "2026-09-25",
+      "time": "09:30 AM",
+      "venue": "Main Auditorium, Tech Block A",
+      "capacity": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-08-24T14:17:04.124Z"
+    },
+    {
+      "_id": "692d0e88264fef50df8627ad",
+      "title": "Inter-College Chess Championship",
+      "description": "FIDE-rated blitz and classical chess championship with grandmaster commentary, timed knockout brackets, and university championship trophies.",
+      "category": "Sports",
+      "date": "2026-10-02",
+      "time": "10:00 AM",
+      "venue": "Indoor Sports Complex, Hall 2",
+      "capacity": 64,
+      "imageUrl": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-08-27T14:17:04.124Z"
+    },
+    {
+      "_id": "7319693bd6662ffebbfba3ae",
+      "title": "Acoustic Unplugged Musical Evening",
+      "description": "An intimate evening of indie music, student band performances, jazz quartets, and original songwriting showcase under the university amphitheater lights.",
+      "category": "Cultural",
+      "date": "2026-10-07",
+      "time": "06:00 PM",
+      "venue": "Central Quad Amphitheater",
+      "capacity": 150,
+      "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-08-30T14:17:04.124Z"
+    },
+    {
+      "_id": "beeec136b0730e859c89b428",
+      "title": "Quantum Computing Research Colloquium",
+      "description": "Distinguished lecture series delving into qubit topologies, quantum error correction protocols, and practical quantum algorithm simulations.",
+      "category": "Academic",
+      "date": "2026-10-11",
+      "time": "02:00 PM",
+      "venue": "Seminar Hall 3, Science Complex",
+      "capacity": 80,
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-02T14:17:04.124Z"
+    },
+    {
+      "_id": "d99deeac49ca7e8a99b37171",
+      "title": "University Football League Quarter-Finals",
+      "description": "High-octane collegiate football tournament featuring top university squads competing for a spot in the statewide championship bracket.",
+      "category": "Sports",
+      "date": "2026-10-15",
+      "time": "04:30 PM",
+      "venue": "Varsity Athletics Stadium",
+      "capacity": 200,
+      "imageUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-05T14:17:04.124Z"
+    },
+    {
+      "_id": "54a26a63627154b6f574ef39",
+      "title": "Annual Street Theatre & Drama Showcase",
+      "description": "Socially poignant street plays (Nukkad Natak), contemporary one-act theatre, and monologue competitions presented by the dramatic society.",
+      "category": "Cultural",
+      "date": "2026-10-18",
+      "time": "05:00 PM",
+      "venue": "Student Activity Center Lawn",
+      "capacity": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-08T14:17:04.124Z"
+    },
+    {
+      "_id": "c729fc07e2db45ec2543a1a5",
+      "title": "Full-Stack Web3 & Cloud Architecture Workshop",
+      "description": "Hands-on developer workshop covering distributed systems, Docker containers, zero-knowledge proofs, and microservice deployment pipelines.",
+      "category": "Technical",
+      "date": "2026-10-21",
+      "time": "11:00 AM",
+      "venue": "Computer Science Lab 4",
+      "capacity": 75,
+      "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-11T14:17:04.124Z"
+    },
+    {
+      "_id": "a3ccdd42e06964b652633ea6",
+      "title": "HackCampus 2026: 36-Hour National Hackathon",
+      "description": "The flagship annual 36-hour hackathon bringing together 100+ collegiate teams to solve real-world problems in HealthTech, EdTech, FinTech, and Green energy.",
+      "category": "Technical",
+      "date": "2026-10-27",
+      "time": "09:00 AM",
+      "venue": "Innovation Hub, 4th Floor",
+      "capacity": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-14T14:17:04.124Z"
+    },
+    {
+      "_id": "bf1f6fd2f0d32bebd9f44ab9",
+      "title": "Verve 2026: Inter-Collegiate Cultural Festival",
+      "description": "The mega annual cultural festival of dance battles, fashion runway, Battle of the Bands, stand-up comedy, and culinary carnival.",
+      "category": "Cultural",
+      "date": "2026-11-01",
+      "time": "11:00 AM",
+      "venue": "Main Campus Grounds & Auditorium",
+      "capacity": 250,
+      "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-17T14:17:04.124Z"
+    },
+    {
+      "_id": "d0f6f977e03a8301aa059b21",
+      "title": "Annual Inter-Department Athletics Meet",
+      "description": "Track and field competition spanning 100m sprint, 4x100m relay, long jump, shot put, and high jump with medals and department trophy.",
+      "category": "Sports",
+      "date": "2026-11-06",
+      "time": "08:00 AM",
+      "venue": "Olympic Standard Track Field",
+      "capacity": 150,
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-20T14:17:04.124Z"
+    },
+    {
+      "_id": "3592e15f6ab3b21bcfab53e6",
+      "title": "International Conference on Climate Science & AI",
+      "description": "Peer-reviewed academic conference on computational sustainability, climate data modeling, renewable smart grids, and global policy.",
+      "category": "Academic",
+      "date": "2026-11-12",
+      "time": "10:00 AM",
+      "venue": "Executive Convention Center",
+      "capacity": 90,
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-23T14:17:04.124Z"
+    },
+    {
+      "_id": "b7944182aab7ee18e4bf97dc",
+      "title": "CyberSecurity & Ethical Hacking Capture-The-Flag (CTF)",
+      "description": "Competitive Jeopardy and Attack-Defense style cyber-security CTF covering reverse engineering, cryptography, web exploitation, and digital forensics.",
+      "category": "Technical",
+      "date": "2026-11-19",
+      "time": "01:00 PM",
+      "venue": "Advanced Cybersecurity Lab B",
+      "capacity": 80,
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "createdBy": "admin@college.edu",
+      "createdAt": "2026-09-26T14:17:04.124Z"
+    }
+  ],
+  "registrations": [
+    {
+      "_id": "0e3afc32717fe84182369aed",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "student_alex_001",
+      "registeredAt": "2026-10-13T14:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-1000"
+    },
+    {
+      "_id": "72a3b848c4bf8bf01a10c8de",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "student_alex_001",
+      "registeredAt": "2026-10-23T14:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-1001"
+    },
+    {
+      "_id": "65d971c60cb146dcdac49b78",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "student_alex_001",
+      "registeredAt": "2026-10-17T14:17:04.124Z",
+      "ticketId": "TKT-CUL-2026-1002"
+    },
+    {
+      "_id": "31204fd3e91b23a0ac7d9b04",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "student_alex_001",
+      "registeredAt": "2026-10-05T08:09:26.702Z",
+      "ticketId": "TKT-SPO-2026-2001"
+    },
+    {
+      "_id": "59f64f1387462cceb658f272",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "student_priya_002",
+      "registeredAt": "2026-10-18T10:06:13.884Z",
+      "ticketId": "TKT-SPO-2026-2002"
+    },
+    {
+      "_id": "5e440a0117994a89ad0b8b70",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "student_marcus_003",
+      "registeredAt": "2026-10-09T07:08:30.835Z",
+      "ticketId": "TKT-TEC-2026-2003"
+    },
+    {
+      "_id": "a927cb66deb4fb28c695c73e",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "student_sarah_004",
+      "registeredAt": "2026-10-08T12:01:58.633Z",
+      "ticketId": "TKT-TEC-2026-2004"
+    },
+    {
+      "_id": "69a0be8c0d7009b251d3e02b",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "student_david_005",
+      "registeredAt": "2026-10-11T09:48:36.232Z",
+      "ticketId": "TKT-TEC-2026-2005"
+    },
+    {
+      "_id": "fee7d5cb62f1cca49de23afc",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_1",
+      "registeredAt": "2026-10-20T11:08:41.105Z",
+      "ticketId": "TKT-TEC-2026-2006"
+    },
+    {
+      "_id": "1ee93e975f38d9b2fab9b26a",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_2",
+      "registeredAt": "2026-10-22T11:35:00.903Z",
+      "ticketId": "TKT-CUL-2026-2007"
+    },
+    {
+      "_id": "496f245065e40dbd20d1ff40",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_3",
+      "registeredAt": "2026-10-13T10:47:26.205Z",
+      "ticketId": "TKT-TEC-2026-2008"
+    },
+    {
+      "_id": "aa6fb5993a6dc534ff41dfa1",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_4",
+      "registeredAt": "2026-10-07T10:36:22.862Z",
+      "ticketId": "TKT-TEC-2026-2009"
+    },
+    {
+      "_id": "3d1468b7925beeb4ab8f2133",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_5",
+      "registeredAt": "2026-10-05T07:24:38.242Z",
+      "ticketId": "TKT-TEC-2026-2010"
+    },
+    {
+      "_id": "2f5f74af36ef9a9fd6c2ffe3",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_6",
+      "registeredAt": "2026-10-21T09:06:01.630Z",
+      "ticketId": "TKT-TEC-2026-2011"
+    },
+    {
+      "_id": "27cc5496f900692eb5dd3109",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_7",
+      "registeredAt": "2026-10-04T11:16:35.760Z",
+      "ticketId": "TKT-SPO-2026-2012"
+    },
+    {
+      "_id": "5c3f7c0c4325f33a838aa2b5",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_8",
+      "registeredAt": "2026-09-30T11:48:28.481Z",
+      "ticketId": "TKT-SPO-2026-2013"
+    },
+    {
+      "_id": "6a8d8f885fd2008291db571b",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_9",
+      "registeredAt": "2026-09-30T09:06:34.384Z",
+      "ticketId": "TKT-CUL-2026-2014"
+    },
+    {
+      "_id": "e9ebec71d8d816dde5bd41d5",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_10",
+      "registeredAt": "2026-10-03T10:50:08.947Z",
+      "ticketId": "TKT-SPO-2026-2015"
+    },
+    {
+      "_id": "8ad4ec62836b00e5bb1d60f3",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_11",
+      "registeredAt": "2026-09-30T07:38:21.956Z",
+      "ticketId": "TKT-TEC-2026-2016"
+    },
+    {
+      "_id": "d6c17804fde63ff8fe1e0380",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_12",
+      "registeredAt": "2026-10-14T04:44:01.614Z",
+      "ticketId": "TKT-CUL-2026-2017"
+    },
+    {
+      "_id": "04d3303198a1834a66555d50",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_13",
+      "registeredAt": "2026-10-02T10:45:07.880Z",
+      "ticketId": "TKT-CUL-2026-2018"
+    },
+    {
+      "_id": "bc2e270afd0ac1546ee31029",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_14",
+      "registeredAt": "2026-10-04T05:19:32.168Z",
+      "ticketId": "TKT-TEC-2026-2019"
+    },
+    {
+      "_id": "c049ad2e902b179c20cebb1c",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_15",
+      "registeredAt": "2026-10-06T04:29:47.214Z",
+      "ticketId": "TKT-SPO-2026-2020"
+    },
+    {
+      "_id": "1f0c3d11bb1d15b4152fdde4",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_16",
+      "registeredAt": "2026-10-21T10:46:53.170Z",
+      "ticketId": "TKT-TEC-2026-2021"
+    },
+    {
+      "_id": "e5dfc08780ccaebfa5e4630e",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_17",
+      "registeredAt": "2026-10-07T08:51:16.289Z",
+      "ticketId": "TKT-TEC-2026-2022"
+    },
+    {
+      "_id": "2a270644bca842b96fea12ae",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_18",
+      "registeredAt": "2026-10-09T04:37:37.008Z",
+      "ticketId": "TKT-ACA-2026-2023"
+    },
+    {
+      "_id": "869a8718030f191a938b9569",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_19",
+      "registeredAt": "2026-10-09T10:27:10.658Z",
+      "ticketId": "TKT-ACA-2026-2024"
+    },
+    {
+      "_id": "a9f12a60e588df1441071f7f",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_20",
+      "registeredAt": "2026-10-09T05:29:36.526Z",
+      "ticketId": "TKT-SPO-2026-2025"
+    },
+    {
+      "_id": "1f393bc78005eac1a24946ab",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_21",
+      "registeredAt": "2026-10-18T11:04:29.224Z",
+      "ticketId": "TKT-CUL-2026-2026"
+    },
+    {
+      "_id": "a8885aec609d08d07d97cc54",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_22",
+      "registeredAt": "2026-10-20T05:09:31.221Z",
+      "ticketId": "TKT-CUL-2026-2027"
+    },
+    {
+      "_id": "d75125d21a9bb5e16a20c344",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_23",
+      "registeredAt": "2026-10-22T11:10:34.481Z",
+      "ticketId": "TKT-CUL-2026-2028"
+    },
+    {
+      "_id": "eb280016a14c74bb955707d1",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_24",
+      "registeredAt": "2026-10-21T04:32:14.404Z",
+      "ticketId": "TKT-CUL-2026-2029"
+    },
+    {
+      "_id": "04c7c7e0973eb4485a271ecc",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_25",
+      "registeredAt": "2026-10-01T07:00:45.695Z",
+      "ticketId": "TKT-ACA-2026-2030"
+    },
+    {
+      "_id": "86dfbf293dfca7820484340b",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_26",
+      "registeredAt": "2026-10-13T13:52:27.218Z",
+      "ticketId": "TKT-ACA-2026-2031"
+    },
+    {
+      "_id": "c89d799cb435afe5ac0705f0",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_27",
+      "registeredAt": "2026-10-16T05:07:44.452Z",
+      "ticketId": "TKT-TEC-2026-2032"
+    },
+    {
+      "_id": "a0a9c5973c20550ab569bd5e",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_28",
+      "registeredAt": "2026-10-17T14:16:21.963Z",
+      "ticketId": "TKT-ACA-2026-2033"
+    },
+    {
+      "_id": "2d54c53ede15a9631fcfc2b0",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_29",
+      "registeredAt": "2026-10-04T08:32:59.082Z",
+      "ticketId": "TKT-TEC-2026-2034"
+    },
+    {
+      "_id": "1b3d62396bafc22fbec31400",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_30",
+      "registeredAt": "2026-10-17T12:32:53.508Z",
+      "ticketId": "TKT-CUL-2026-2035"
+    },
+    {
+      "_id": "bb2070179faac3094cc7e556",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_31",
+      "registeredAt": "2026-10-01T06:56:51.774Z",
+      "ticketId": "TKT-CUL-2026-2036"
+    },
+    {
+      "_id": "7c1654198f0db8a2b6ecd193",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_32",
+      "registeredAt": "2026-10-17T11:03:51.115Z",
+      "ticketId": "TKT-TEC-2026-2037"
+    },
+    {
+      "_id": "8d1cfd8a790fff0c7014fbd9",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_33",
+      "registeredAt": "2026-10-08T13:39:48.496Z",
+      "ticketId": "TKT-ACA-2026-2038"
+    },
+    {
+      "_id": "dedc4c010a1695db0edacc8f",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_34",
+      "registeredAt": "2026-10-11T14:09:46.989Z",
+      "ticketId": "TKT-TEC-2026-2039"
+    },
+    {
+      "_id": "1f58a837e9c9158936293347",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_35",
+      "registeredAt": "2026-10-03T07:11:44.215Z",
+      "ticketId": "TKT-TEC-2026-2040"
+    },
+    {
+      "_id": "167446772d1d311848f0b43c",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_36",
+      "registeredAt": "2026-10-10T08:49:36.452Z",
+      "ticketId": "TKT-SPO-2026-2041"
+    },
+    {
+      "_id": "d5241f831d8af95e0e133f49",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_37",
+      "registeredAt": "2026-10-03T06:42:05.912Z",
+      "ticketId": "TKT-CUL-2026-2042"
+    },
+    {
+      "_id": "35246824aeaa6ce1ee6e0d83",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_38",
+      "registeredAt": "2026-10-08T09:39:58.104Z",
+      "ticketId": "TKT-SPO-2026-2043"
+    },
+    {
+      "_id": "8ca198449588bff40a0fae22",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_39",
+      "registeredAt": "2026-10-18T06:41:49.636Z",
+      "ticketId": "TKT-ACA-2026-2044"
+    },
+    {
+      "_id": "e9645a9faf3819f6511d0878",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_40",
+      "registeredAt": "2026-10-09T05:40:02.566Z",
+      "ticketId": "TKT-TEC-2026-2045"
+    },
+    {
+      "_id": "b353ec90cdbec4ecfafb6f11",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_41",
+      "registeredAt": "2026-10-01T11:24:20.682Z",
+      "ticketId": "TKT-CUL-2026-2046"
+    },
+    {
+      "_id": "57f00709578e624d127410ae",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_42",
+      "registeredAt": "2026-09-30T12:44:20.322Z",
+      "ticketId": "TKT-CUL-2026-2047"
+    },
+    {
+      "_id": "b224e080f83251f9124d37db",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_43",
+      "registeredAt": "2026-10-18T05:08:07.121Z",
+      "ticketId": "TKT-SPO-2026-2048"
+    },
+    {
+      "_id": "ee234172beea9d4bb94892ac",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_44",
+      "registeredAt": "2026-09-29T09:22:55.906Z",
+      "ticketId": "TKT-TEC-2026-2049"
+    },
+    {
+      "_id": "12fbf8e5cc67fec16699c314",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_45",
+      "registeredAt": "2026-10-09T13:07:49.411Z",
+      "ticketId": "TKT-TEC-2026-2050"
+    },
+    {
+      "_id": "098ded1ff0152669dfc25aef",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_46",
+      "registeredAt": "2026-10-04T09:05:19.347Z",
+      "ticketId": "TKT-CUL-2026-2051"
+    },
+    {
+      "_id": "2adecf164ba5fd5d40dbdf87",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_47",
+      "registeredAt": "2026-09-29T10:01:51.744Z",
+      "ticketId": "TKT-SPO-2026-2052"
+    },
+    {
+      "_id": "afa5854d14c611676ebc69e9",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_48",
+      "registeredAt": "2026-10-15T10:01:39.248Z",
+      "ticketId": "TKT-SPO-2026-2053"
+    },
+    {
+      "_id": "d7ebd817d481843c96ae703f",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_49",
+      "registeredAt": "2026-10-13T08:54:50.774Z",
+      "ticketId": "TKT-SPO-2026-2054"
+    },
+    {
+      "_id": "70e43d99c10ccf5563ec6abf",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_50",
+      "registeredAt": "2026-09-29T07:19:01.636Z",
+      "ticketId": "TKT-ACA-2026-2055"
+    },
+    {
+      "_id": "679d2e93e67506fb8d1d4672",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_51",
+      "registeredAt": "2026-10-13T06:51:24.434Z",
+      "ticketId": "TKT-TEC-2026-2056"
+    },
+    {
+      "_id": "8f448616a768a6ea80cdfe29",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_52",
+      "registeredAt": "2026-10-06T09:51:00.636Z",
+      "ticketId": "TKT-TEC-2026-2057"
+    },
+    {
+      "_id": "ea222a6dc1fc33f8bff7d936",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_53",
+      "registeredAt": "2026-10-12T06:32:22.924Z",
+      "ticketId": "TKT-CUL-2026-2058"
+    },
+    {
+      "_id": "541fda704f30191b10cce5b3",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_54",
+      "registeredAt": "2026-10-22T06:19:00.126Z",
+      "ticketId": "TKT-ACA-2026-2059"
+    },
+    {
+      "_id": "52c636205560d23dc87ec0dc",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_55",
+      "registeredAt": "2026-10-17T12:46:02.406Z",
+      "ticketId": "TKT-TEC-2026-2060"
+    },
+    {
+      "_id": "7cc0bfe1a28d871c0c524790",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_56",
+      "registeredAt": "2026-10-12T04:48:58.313Z",
+      "ticketId": "TKT-SPO-2026-2061"
+    },
+    {
+      "_id": "a170cbe41bc3e9ed12ad450c",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_57",
+      "registeredAt": "2026-10-16T09:03:51.390Z",
+      "ticketId": "TKT-SPO-2026-2062"
+    },
+    {
+      "_id": "fb3fb2db7b693ac69adee387",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_58",
+      "registeredAt": "2026-10-15T13:05:16.650Z",
+      "ticketId": "TKT-SPO-2026-2063"
+    },
+    {
+      "_id": "7762cbfdf9437786728dc2f9",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_59",
+      "registeredAt": "2026-10-16T04:48:17.958Z",
+      "ticketId": "TKT-SPO-2026-2064"
+    },
+    {
+      "_id": "02f4cdddc40beac0b91a7353",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_60",
+      "registeredAt": "2026-10-12T12:03:02.327Z",
+      "ticketId": "TKT-TEC-2026-2065"
+    },
+    {
+      "_id": "0ae21dab79308a1fde1c75a3",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_61",
+      "registeredAt": "2026-09-30T08:09:57.252Z",
+      "ticketId": "TKT-SPO-2026-2066"
+    },
+    {
+      "_id": "59b408e4e1600f690e598404",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_62",
+      "registeredAt": "2026-10-13T13:18:21.540Z",
+      "ticketId": "TKT-SPO-2026-2067"
+    },
+    {
+      "_id": "d20b23e8231cca4c365a09a6",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_63",
+      "registeredAt": "2026-10-22T09:41:43.457Z",
+      "ticketId": "TKT-TEC-2026-2068"
+    },
+    {
+      "_id": "2060be0a6b6f4976f8e05bcb",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_64",
+      "registeredAt": "2026-10-06T13:02:24.211Z",
+      "ticketId": "TKT-SPO-2026-2069"
+    },
+    {
+      "_id": "096ec2a83eb9a5c295e71e59",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_65",
+      "registeredAt": "2026-10-18T13:08:32.817Z",
+      "ticketId": "TKT-SPO-2026-2070"
+    },
+    {
+      "_id": "d2f90765ae64492e249b44c2",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_66",
+      "registeredAt": "2026-10-19T11:51:00.818Z",
+      "ticketId": "TKT-CUL-2026-2071"
+    },
+    {
+      "_id": "94f540b161271b012134ffdd",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_67",
+      "registeredAt": "2026-10-20T13:24:32.932Z",
+      "ticketId": "TKT-SPO-2026-2072"
+    },
+    {
+      "_id": "4247b12495101fa833eb1d2e",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_68",
+      "registeredAt": "2026-10-01T11:31:55.001Z",
+      "ticketId": "TKT-CUL-2026-2073"
+    },
+    {
+      "_id": "d9b8e04c5ca79e6fea29d2a5",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_69",
+      "registeredAt": "2026-10-06T09:34:23.399Z",
+      "ticketId": "TKT-ACA-2026-2074"
+    },
+    {
+      "_id": "668b993b1e07963271e438c4",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_70",
+      "registeredAt": "2026-10-19T11:04:28.874Z",
+      "ticketId": "TKT-TEC-2026-2075"
+    },
+    {
+      "_id": "98184842e7be009fcbc89e52",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_71",
+      "registeredAt": "2026-10-15T05:21:44.927Z",
+      "ticketId": "TKT-CUL-2026-2076"
+    },
+    {
+      "_id": "c671ae315bfeae44c668b85d",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_72",
+      "registeredAt": "2026-10-01T13:43:32.659Z",
+      "ticketId": "TKT-TEC-2026-2077"
+    },
+    {
+      "_id": "b3cf3ddc6fc9a835501e8e4f",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_73",
+      "registeredAt": "2026-10-22T12:28:30.978Z",
+      "ticketId": "TKT-CUL-2026-2078"
+    },
+    {
+      "_id": "5d167a16273e5e4b8d1580e5",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_74",
+      "registeredAt": "2026-10-16T10:40:25.041Z",
+      "ticketId": "TKT-TEC-2026-2079"
+    },
+    {
+      "_id": "cca303141657baf9c32474f6",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_75",
+      "registeredAt": "2026-10-11T13:21:20.886Z",
+      "ticketId": "TKT-TEC-2026-2080"
+    },
+    {
+      "_id": "a8f2feff646fce296a113f56",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_76",
+      "registeredAt": "2026-10-14T06:03:33.265Z",
+      "ticketId": "TKT-TEC-2026-2081"
+    },
+    {
+      "_id": "44ca0aba3df4b44b66ccd472",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_77",
+      "registeredAt": "2026-10-17T05:02:28.133Z",
+      "ticketId": "TKT-SPO-2026-2082"
+    },
+    {
+      "_id": "943d76a0fbce3ee206d7af75",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_78",
+      "registeredAt": "2026-10-16T10:44:34.341Z",
+      "ticketId": "TKT-ACA-2026-2083"
+    },
+    {
+      "_id": "0cc65804cd99d32cdbea50c2",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_79",
+      "registeredAt": "2026-10-02T09:49:29.442Z",
+      "ticketId": "TKT-CUL-2026-2084"
+    },
+    {
+      "_id": "2371ed0f79270b70bd826e24",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_80",
+      "registeredAt": "2026-10-11T08:02:51.339Z",
+      "ticketId": "TKT-SPO-2026-2085"
+    },
+    {
+      "_id": "c38f7727b98e07558f85419b",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "admin_master_001",
+      "registeredAt": "2026-10-19T05:36:18.987Z",
+      "ticketId": "TKT-TEC-2026-2086"
+    },
+    {
+      "_id": "189a1441a64a5fc934d7a043",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "student_priya_002",
+      "registeredAt": "2026-10-11T10:54:19.939Z",
+      "ticketId": "TKT-ACA-2026-2088"
+    },
+    {
+      "_id": "5ad1ed819745c15bff70f961",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "student_marcus_003",
+      "registeredAt": "2026-10-01T04:28:26.260Z",
+      "ticketId": "TKT-SPO-2026-2089"
+    },
+    {
+      "_id": "a93db29e61316f1ca16337b4",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "student_sarah_004",
+      "registeredAt": "2026-10-05T05:10:12.843Z",
+      "ticketId": "TKT-TEC-2026-2090"
+    },
+    {
+      "_id": "d0da2b096954ad280c1eea0a",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "student_david_005",
+      "registeredAt": "2026-10-12T09:50:44.775Z",
+      "ticketId": "TKT-ACA-2026-2091"
+    },
+    {
+      "_id": "d9feabbf3872235623facb40",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_1",
+      "registeredAt": "2026-09-28T09:25:50.113Z",
+      "ticketId": "TKT-ACA-2026-2092"
+    },
+    {
+      "_id": "502ba906c58a5b9ae5ac79a9",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_2",
+      "registeredAt": "2026-10-03T06:36:46.366Z",
+      "ticketId": "TKT-TEC-2026-2093"
+    },
+    {
+      "_id": "0161c2dcc885096736337b2e",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_3",
+      "registeredAt": "2026-10-17T09:57:00.433Z",
+      "ticketId": "TKT-ACA-2026-2094"
+    },
+    {
+      "_id": "edad930e4f13d6b30c7cab34",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_4",
+      "registeredAt": "2026-10-10T05:26:20.781Z",
+      "ticketId": "TKT-TEC-2026-2095"
+    },
+    {
+      "_id": "78b137c61206067a2e021af9",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_5",
+      "registeredAt": "2026-10-19T11:47:20.049Z",
+      "ticketId": "TKT-SPO-2026-2096"
+    },
+    {
+      "_id": "172effd9f0933d18cabd4aa3",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_6",
+      "registeredAt": "2026-10-17T09:39:26.009Z",
+      "ticketId": "TKT-TEC-2026-2097"
+    },
+    {
+      "_id": "ea585cae418076c0173530f8",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_10",
+      "registeredAt": "2026-10-03T05:26:40.861Z",
+      "ticketId": "TKT-ACA-2026-2098"
+    },
+    {
+      "_id": "8df9f827592c1ea1adfda9bd",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_11",
+      "registeredAt": "2026-10-16T10:33:19.293Z",
+      "ticketId": "TKT-TEC-2026-2099"
+    },
+    {
+      "_id": "ef90a6d2e3a567dc77662f99",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_12",
+      "registeredAt": "2026-09-28T04:31:14.631Z",
+      "ticketId": "TKT-CUL-2026-2100"
+    },
+    {
+      "_id": "872f1761e959e36736ebda89",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_13",
+      "registeredAt": "2026-10-14T13:47:34.747Z",
+      "ticketId": "TKT-CUL-2026-2101"
+    },
+    {
+      "_id": "16ec56d978e8995c8f7a5ccd",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_14",
+      "registeredAt": "2026-09-30T06:19:17.666Z",
+      "ticketId": "TKT-SPO-2026-2102"
+    },
+    {
+      "_id": "97b0c9c818c0f5dc40b7f88f",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_15",
+      "registeredAt": "2026-09-30T09:59:11.208Z",
+      "ticketId": "TKT-ACA-2026-2103"
+    },
+    {
+      "_id": "c141efaaebd9f5ce6ea3e68d",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_16",
+      "registeredAt": "2026-10-11T10:16:11.719Z",
+      "ticketId": "TKT-CUL-2026-2104"
+    },
+    {
+      "_id": "5b32d0dc95637cc158d85735",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_17",
+      "registeredAt": "2026-10-04T04:47:05.987Z",
+      "ticketId": "TKT-CUL-2026-2105"
+    },
+    {
+      "_id": "e31820aedc504250ae16612f",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_18",
+      "registeredAt": "2026-10-13T09:50:27.002Z",
+      "ticketId": "TKT-SPO-2026-2106"
+    },
+    {
+      "_id": "964cd6fa45091f035b9003f3",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_19",
+      "registeredAt": "2026-10-09T06:11:54.929Z",
+      "ticketId": "TKT-TEC-2026-2107"
+    },
+    {
+      "_id": "61bc3a8290a284e2ed866738",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_20",
+      "registeredAt": "2026-10-07T06:06:18.032Z",
+      "ticketId": "TKT-CUL-2026-2108"
+    },
+    {
+      "_id": "d4d7d5ea7dafaf1023fd1c20",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_21",
+      "registeredAt": "2026-10-17T05:37:56.931Z",
+      "ticketId": "TKT-TEC-2026-2109"
+    },
+    {
+      "_id": "1c875ee126f91f9348a60dd7",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_22",
+      "registeredAt": "2026-09-28T13:38:31.936Z",
+      "ticketId": "TKT-TEC-2026-2110"
+    },
+    {
+      "_id": "77b743ea342228cd525a4d76",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_23",
+      "registeredAt": "2026-10-11T10:09:15.888Z",
+      "ticketId": "TKT-CUL-2026-2111"
+    },
+    {
+      "_id": "882b2f80f0fe6b7f9bb5bfa0",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_24",
+      "registeredAt": "2026-10-12T07:44:44.214Z",
+      "ticketId": "TKT-SPO-2026-2112"
+    },
+    {
+      "_id": "0a7d88a5fa8f1f80dfe87847",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_25",
+      "registeredAt": "2026-10-20T12:22:52.618Z",
+      "ticketId": "TKT-CUL-2026-2113"
+    },
+    {
+      "_id": "c9b0ed635f545c323f92d4d8",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_26",
+      "registeredAt": "2026-10-10T09:45:39.245Z",
+      "ticketId": "TKT-TEC-2026-2114"
+    },
+    {
+      "_id": "f804fec2aef33d822cd5268f",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_27",
+      "registeredAt": "2026-10-01T11:54:36.653Z",
+      "ticketId": "TKT-CUL-2026-2115"
+    },
+    {
+      "_id": "8006ec1694eb73f7af079695",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_28",
+      "registeredAt": "2026-10-22T13:39:12.503Z",
+      "ticketId": "TKT-TEC-2026-2116"
+    },
+    {
+      "_id": "991f2782446ac2303ad0e085",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_29",
+      "registeredAt": "2026-09-29T07:26:34.478Z",
+      "ticketId": "TKT-SPO-2026-2117"
+    },
+    {
+      "_id": "a1aa2edb08cd85e2ca8678e4",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_30",
+      "registeredAt": "2026-10-07T09:39:33.026Z",
+      "ticketId": "TKT-ACA-2026-2118"
+    },
+    {
+      "_id": "38cfc96546991a79217f38dc",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_31",
+      "registeredAt": "2026-09-30T06:15:00.797Z",
+      "ticketId": "TKT-SPO-2026-2119"
+    },
+    {
+      "_id": "08b9d4266b841493068c24a6",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_32",
+      "registeredAt": "2026-10-02T06:59:50.400Z",
+      "ticketId": "TKT-CUL-2026-2120"
+    },
+    {
+      "_id": "2dfa62b2e7c37a9e6b1c317f",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_34",
+      "registeredAt": "2026-09-28T04:30:37.407Z",
+      "ticketId": "TKT-SPO-2026-2121"
+    },
+    {
+      "_id": "900c47e572d89c5fda540c40",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_35",
+      "registeredAt": "2026-10-05T06:24:05.496Z",
+      "ticketId": "TKT-TEC-2026-2122"
+    },
+    {
+      "_id": "c325e2fbed491f7d6e013a26",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_36",
+      "registeredAt": "2026-09-29T05:05:42.246Z",
+      "ticketId": "TKT-CUL-2026-2123"
+    },
+    {
+      "_id": "8fb7bbd091d2cebce300b469",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_37",
+      "registeredAt": "2026-10-01T11:28:03.848Z",
+      "ticketId": "TKT-CUL-2026-2124"
+    },
+    {
+      "_id": "984aecafe6f68a3f6f9b9d60",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_39",
+      "registeredAt": "2026-10-07T10:15:39.825Z",
+      "ticketId": "TKT-TEC-2026-2125"
+    },
+    {
+      "_id": "ac1f8edea6ee792de21bb44d",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_40",
+      "registeredAt": "2026-10-19T13:42:27.743Z",
+      "ticketId": "TKT-ACA-2026-2126"
+    },
+    {
+      "_id": "a9e00878717515616c3a5d2e",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_41",
+      "registeredAt": "2026-10-22T08:19:32.483Z",
+      "ticketId": "TKT-ACA-2026-2127"
+    },
+    {
+      "_id": "4c71965b98ba1be739ea3672",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_42",
+      "registeredAt": "2026-10-19T12:28:45.794Z",
+      "ticketId": "TKT-TEC-2026-2128"
+    },
+    {
+      "_id": "603431ae72fda5f87d26a220",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_43",
+      "registeredAt": "2026-10-09T10:16:15.063Z",
+      "ticketId": "TKT-TEC-2026-2129"
+    },
+    {
+      "_id": "2c09b875dac97d874c8f65a8",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_44",
+      "registeredAt": "2026-09-28T11:33:04.616Z",
+      "ticketId": "TKT-TEC-2026-2130"
+    },
+    {
+      "_id": "97fc49d37dc2c7489dcec785",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_45",
+      "registeredAt": "2026-10-18T13:51:26.360Z",
+      "ticketId": "TKT-CUL-2026-2131"
+    },
+    {
+      "_id": "e6ee5b1b3eb989e79de21df8",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_46",
+      "registeredAt": "2026-10-22T10:00:27.068Z",
+      "ticketId": "TKT-ACA-2026-2132"
+    },
+    {
+      "_id": "844804d486e8a719c5c2e083",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_47",
+      "registeredAt": "2026-10-18T13:01:08.389Z",
+      "ticketId": "TKT-SPO-2026-2133"
+    },
+    {
+      "_id": "c8a5804cd73b18818128fa76",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_49",
+      "registeredAt": "2026-10-08T11:11:14.218Z",
+      "ticketId": "TKT-ACA-2026-2134"
+    },
+    {
+      "_id": "e85634089bd6e42018d68b08",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_50",
+      "registeredAt": "2026-10-08T10:05:53.351Z",
+      "ticketId": "TKT-CUL-2026-2135"
+    },
+    {
+      "_id": "0e8a4337fe7bd8e3574c6e1a",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_52",
+      "registeredAt": "2026-10-12T14:15:07.701Z",
+      "ticketId": "TKT-SPO-2026-2136"
+    },
+    {
+      "_id": "01747bf1a97f14a6926e548b",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_54",
+      "registeredAt": "2026-10-16T13:06:44.462Z",
+      "ticketId": "TKT-TEC-2026-2137"
+    },
+    {
+      "_id": "bd16e26f371d8e44c127e5cb",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_55",
+      "registeredAt": "2026-10-13T05:15:41.431Z",
+      "ticketId": "TKT-TEC-2026-2138"
+    },
+    {
+      "_id": "3957cdaefbdfe1f7ef8e90a2",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_56",
+      "registeredAt": "2026-10-09T08:14:57.982Z",
+      "ticketId": "TKT-SPO-2026-2139"
+    },
+    {
+      "_id": "b5fd3c104c542aed4b6cb029",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_57",
+      "registeredAt": "2026-10-02T04:27:08.220Z",
+      "ticketId": "TKT-SPO-2026-2140"
+    },
+    {
+      "_id": "1dbe7e1f1a927944d2e5b9ae",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_58",
+      "registeredAt": "2026-10-03T04:56:05.238Z",
+      "ticketId": "TKT-CUL-2026-2141"
+    },
+    {
+      "_id": "db6b2185f74d3a0aad5ebdab",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_59",
+      "registeredAt": "2026-10-11T07:01:39.650Z",
+      "ticketId": "TKT-TEC-2026-2142"
+    },
+    {
+      "_id": "106bfa37c569beb119eecd87",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_60",
+      "registeredAt": "2026-09-29T10:21:35.547Z",
+      "ticketId": "TKT-TEC-2026-2143"
+    },
+    {
+      "_id": "bb07c98c7e416ff8a5f20c9b",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_61",
+      "registeredAt": "2026-10-06T11:48:51.915Z",
+      "ticketId": "TKT-CUL-2026-2144"
+    },
+    {
+      "_id": "f288dddab53c477972e891a6",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_62",
+      "registeredAt": "2026-10-21T11:39:11.960Z",
+      "ticketId": "TKT-SPO-2026-2145"
+    },
+    {
+      "_id": "35884f84c8106f33ef39aa6b",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_63",
+      "registeredAt": "2026-10-15T10:43:35.069Z",
+      "ticketId": "TKT-SPO-2026-2146"
+    },
+    {
+      "_id": "8eed2c73d549f3c2aaa35f9b",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_64",
+      "registeredAt": "2026-10-20T12:24:07.148Z",
+      "ticketId": "TKT-TEC-2026-2147"
+    },
+    {
+      "_id": "783b1209b2239a2b2c82037a",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_65",
+      "registeredAt": "2026-10-02T08:27:53.008Z",
+      "ticketId": "TKT-SPO-2026-2148"
+    },
+    {
+      "_id": "dfe0e71a935df4b8e245cc6c",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_66",
+      "registeredAt": "2026-10-17T05:19:43.013Z",
+      "ticketId": "TKT-TEC-2026-2149"
+    },
+    {
+      "_id": "b37b1e4fa035ee977cb9a049",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_67",
+      "registeredAt": "2026-10-15T10:58:50.412Z",
+      "ticketId": "TKT-TEC-2026-2150"
+    },
+    {
+      "_id": "a9aec7f3a03ede72e67645e2",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_68",
+      "registeredAt": "2026-10-17T12:37:41.523Z",
+      "ticketId": "TKT-ACA-2026-2151"
+    },
+    {
+      "_id": "8ceb96d7786a086be2a1ae7b",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_69",
+      "registeredAt": "2026-10-10T13:00:23.237Z",
+      "ticketId": "TKT-CUL-2026-2152"
+    },
+    {
+      "_id": "682f36b441bd20fdfa86854a",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_70",
+      "registeredAt": "2026-10-19T12:39:45.695Z",
+      "ticketId": "TKT-TEC-2026-2153"
+    },
+    {
+      "_id": "e0dd8bbbf9da1bfcde9f0930",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_71",
+      "registeredAt": "2026-10-02T05:41:52.453Z",
+      "ticketId": "TKT-TEC-2026-2154"
+    },
+    {
+      "_id": "75cf262d8b01249d5544d124",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_72",
+      "registeredAt": "2026-10-02T11:06:29.253Z",
+      "ticketId": "TKT-CUL-2026-2155"
+    },
+    {
+      "_id": "55d674d80aa7385231923df5",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_73",
+      "registeredAt": "2026-09-28T11:52:55.479Z",
+      "ticketId": "TKT-ACA-2026-2156"
+    },
+    {
+      "_id": "f209302c118a1bf99a3a5838",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_74",
+      "registeredAt": "2026-10-02T08:20:42.791Z",
+      "ticketId": "TKT-TEC-2026-2157"
+    },
+    {
+      "_id": "1e5db0ee61c913c9c385634a",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_75",
+      "registeredAt": "2026-10-06T08:01:42.954Z",
+      "ticketId": "TKT-TEC-2026-2158"
+    },
+    {
+      "_id": "d2d77042f9b7d8a9286bf9ff",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_77",
+      "registeredAt": "2026-10-20T11:56:42.467Z",
+      "ticketId": "TKT-CUL-2026-2159"
+    },
+    {
+      "_id": "552d2a28c829cd70460712a6",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_78",
+      "registeredAt": "2026-10-19T13:11:21.518Z",
+      "ticketId": "TKT-TEC-2026-2160"
+    },
+    {
+      "_id": "77cc05a7055c1c30d77b2388",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_79",
+      "registeredAt": "2026-10-18T11:47:36.097Z",
+      "ticketId": "TKT-TEC-2026-2161"
+    },
+    {
+      "_id": "41d74b94b7a364f50459163f",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_80",
+      "registeredAt": "2026-10-04T11:12:33.731Z",
+      "ticketId": "TKT-ACA-2026-2162"
+    },
+    {
+      "_id": "a3bae61f12111ea2a52df225",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "admin_master_001",
+      "registeredAt": "2026-10-06T05:32:03.629Z",
+      "ticketId": "TKT-SPO-2026-2163"
+    },
+    {
+      "_id": "b8dde17a45eadeb9fcd73860",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "student_alex_001",
+      "registeredAt": "2026-10-02T09:01:59.580Z",
+      "ticketId": "TKT-SPO-2026-2164"
+    },
+    {
+      "_id": "cd0a5cf0a12483c8d242b066",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "student_priya_002",
+      "registeredAt": "2026-10-20T05:25:11.400Z",
+      "ticketId": "TKT-ACA-2026-2165"
+    },
+    {
+      "_id": "8d88306a9f7078f5c7ebefb5",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "student_sarah_004",
+      "registeredAt": "2026-10-10T13:30:37.672Z",
+      "ticketId": "TKT-TEC-2026-2166"
+    },
+    {
+      "_id": "6832bd8c17a570ae9234bb5e",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "student_david_005",
+      "registeredAt": "2026-10-08T13:50:24.356Z",
+      "ticketId": "TKT-CUL-2026-2167"
+    },
+    {
+      "_id": "cd10f45e7ac9add0e01c7d6a",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_1",
+      "registeredAt": "2026-10-11T08:20:05.236Z",
+      "ticketId": "TKT-SPO-2026-2168"
+    },
+    {
+      "_id": "f097713f4918db44b67f21b5",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_2",
+      "registeredAt": "2026-10-01T14:12:35.670Z",
+      "ticketId": "TKT-TEC-2026-2169"
+    },
+    {
+      "_id": "aa5e88fb9e3137debde54a84",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_3",
+      "registeredAt": "2026-10-19T13:34:01.929Z",
+      "ticketId": "TKT-SPO-2026-2170"
+    },
+    {
+      "_id": "548ec096b18d21036a34521f",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_4",
+      "registeredAt": "2026-09-30T06:12:30.747Z",
+      "ticketId": "TKT-SPO-2026-2171"
+    },
+    {
+      "_id": "878dabcbfc494b322d41a208",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_5",
+      "registeredAt": "2026-09-28T12:11:05.188Z",
+      "ticketId": "TKT-TEC-2026-2172"
+    },
+    {
+      "_id": "2df4575a2aed90fa96f6001c",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_6",
+      "registeredAt": "2026-10-08T04:44:14.887Z",
+      "ticketId": "TKT-CUL-2026-2173"
+    },
+    {
+      "_id": "b1dfe04564af92628fb04de3",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_7",
+      "registeredAt": "2026-10-15T06:21:57.717Z",
+      "ticketId": "TKT-SPO-2026-2174"
+    },
+    {
+      "_id": "adbfb3a1b6ea14fcd1f472a9",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_8",
+      "registeredAt": "2026-09-30T11:16:25.463Z",
+      "ticketId": "TKT-CUL-2026-2175"
+    },
+    {
+      "_id": "8ce4e8a4f06c65a42210df97",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_9",
+      "registeredAt": "2026-10-13T04:37:35.602Z",
+      "ticketId": "TKT-ACA-2026-2176"
+    },
+    {
+      "_id": "fb8ea001d0a62029116eda70",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_12",
+      "registeredAt": "2026-10-10T08:24:52.540Z",
+      "ticketId": "TKT-SPO-2026-2177"
+    },
+    {
+      "_id": "150df16ee51e881cea7ac1fd",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_13",
+      "registeredAt": "2026-10-08T09:16:02.633Z",
+      "ticketId": "TKT-TEC-2026-2178"
+    },
+    {
+      "_id": "43e83948b32d81d731151924",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_14",
+      "registeredAt": "2026-10-15T07:39:53.372Z",
+      "ticketId": "TKT-SPO-2026-2179"
+    },
+    {
+      "_id": "b664f101cb674c31626d692d",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_15",
+      "registeredAt": "2026-10-08T06:13:38.476Z",
+      "ticketId": "TKT-CUL-2026-2180"
+    },
+    {
+      "_id": "f6d04d797a34f3a191697d63",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_16",
+      "registeredAt": "2026-10-04T10:30:57.054Z",
+      "ticketId": "TKT-CUL-2026-2181"
+    },
+    {
+      "_id": "e56417f6f6dc229d360835d3",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_18",
+      "registeredAt": "2026-10-16T06:28:03.983Z",
+      "ticketId": "TKT-SPO-2026-2182"
+    },
+    {
+      "_id": "f946d4097e22130761b83b8f",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_20",
+      "registeredAt": "2026-10-22T08:16:12.368Z",
+      "ticketId": "TKT-ACA-2026-2183"
+    },
+    {
+      "_id": "aa091d7bfee8d9c41cc0d69a",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_22",
+      "registeredAt": "2026-10-05T11:28:54.918Z",
+      "ticketId": "TKT-TEC-2026-2184"
+    },
+    {
+      "_id": "d31d9a30752e010af1a243c4",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_25",
+      "registeredAt": "2026-10-22T06:26:08.243Z",
+      "ticketId": "TKT-SPO-2026-2185"
+    },
+    {
+      "_id": "a58d5f936b991183639d88d1",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_27",
+      "registeredAt": "2026-10-03T12:42:39.525Z",
+      "ticketId": "TKT-TEC-2026-2186"
+    },
+    {
+      "_id": "14cb3976bfac36e6e8f5e1bf",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_28",
+      "registeredAt": "2026-10-18T11:53:56.263Z",
+      "ticketId": "TKT-CUL-2026-2187"
+    },
+    {
+      "_id": "edf8effa7b5f73e2ff9c1259",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_29",
+      "registeredAt": "2026-10-16T12:09:30.292Z",
+      "ticketId": "TKT-SPO-2026-2188"
+    },
+    {
+      "_id": "bfe075162c13d1b7b5b3d5be",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_30",
+      "registeredAt": "2026-10-07T07:26:36.598Z",
+      "ticketId": "TKT-TEC-2026-2189"
+    },
+    {
+      "_id": "13126eef9f9a61dd5caa55e9",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_31",
+      "registeredAt": "2026-10-06T07:18:33.773Z",
+      "ticketId": "TKT-TEC-2026-2190"
+    },
+    {
+      "_id": "a04927eeaaddf38984afe379",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_32",
+      "registeredAt": "2026-10-06T07:00:22.774Z",
+      "ticketId": "TKT-SPO-2026-2191"
+    },
+    {
+      "_id": "9add3d50f82c4ad76b88dcaa",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_33",
+      "registeredAt": "2026-10-20T05:37:09.120Z",
+      "ticketId": "TKT-SPO-2026-2192"
+    },
+    {
+      "_id": "ec24af469615847ccd566705",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_34",
+      "registeredAt": "2026-10-06T11:08:35.236Z",
+      "ticketId": "TKT-ACA-2026-2193"
+    },
+    {
+      "_id": "11d1032a24f96e665bc030d9",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_35",
+      "registeredAt": "2026-10-14T08:19:42.828Z",
+      "ticketId": "TKT-TEC-2026-2194"
+    },
+    {
+      "_id": "1a8cb23e24fd8e7e508ebb48",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_36",
+      "registeredAt": "2026-10-08T06:08:36.992Z",
+      "ticketId": "TKT-TEC-2026-2195"
+    },
+    {
+      "_id": "aa96a12aa005e26a72d2c61f",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_38",
+      "registeredAt": "2026-09-30T11:28:53.388Z",
+      "ticketId": "TKT-CUL-2026-2196"
+    },
+    {
+      "_id": "e3f78cf31b8f75766c326abc",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_39",
+      "registeredAt": "2026-10-15T08:26:12.623Z",
+      "ticketId": "TKT-TEC-2026-2197"
+    },
+    {
+      "_id": "d729dda2362d7436a8983ac2",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_40",
+      "registeredAt": "2026-09-30T04:20:47.161Z",
+      "ticketId": "TKT-CUL-2026-2198"
+    },
+    {
+      "_id": "de46f26c02259007e66eba82",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_42",
+      "registeredAt": "2026-10-08T10:22:26.444Z",
+      "ticketId": "TKT-SPO-2026-2199"
+    },
+    {
+      "_id": "7c126c6c85acd503741ae644",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_43",
+      "registeredAt": "2026-10-20T05:34:32.298Z",
+      "ticketId": "TKT-CUL-2026-2200"
+    },
+    {
+      "_id": "e712df601b92aabffd3f7c3f",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_45",
+      "registeredAt": "2026-10-18T09:56:39.137Z",
+      "ticketId": "TKT-CUL-2026-2201"
+    },
+    {
+      "_id": "7543c4b85437b6e6ed1e7121",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_47",
+      "registeredAt": "2026-10-22T13:22:29.934Z",
+      "ticketId": "TKT-TEC-2026-2202"
+    },
+    {
+      "_id": "680c7823f01e9034fbd4d678",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_48",
+      "registeredAt": "2026-10-17T07:00:40.885Z",
+      "ticketId": "TKT-TEC-2026-2203"
+    },
+    {
+      "_id": "f299a087c65ed7d85cebdf09",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_49",
+      "registeredAt": "2026-10-03T13:12:45.092Z",
+      "ticketId": "TKT-SPO-2026-2204"
+    },
+    {
+      "_id": "72715c635878304ea57d5df4",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_50",
+      "registeredAt": "2026-10-17T06:42:20.811Z",
+      "ticketId": "TKT-SPO-2026-2205"
+    },
+    {
+      "_id": "a30a8147df70a0ea2afc55c5",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_52",
+      "registeredAt": "2026-10-17T11:57:18.634Z",
+      "ticketId": "TKT-SPO-2026-2206"
+    },
+    {
+      "_id": "954e0b3397645acaebdff01c",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_54",
+      "registeredAt": "2026-10-07T11:29:35.437Z",
+      "ticketId": "TKT-CUL-2026-2207"
+    },
+    {
+      "_id": "56c70d14d2b9a9e46eb66062",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_55",
+      "registeredAt": "2026-09-29T11:37:37.110Z",
+      "ticketId": "TKT-CUL-2026-2208"
+    },
+    {
+      "_id": "9ee75c9035f46b5d2e80fe1f",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_56",
+      "registeredAt": "2026-10-16T10:57:34.963Z",
+      "ticketId": "TKT-SPO-2026-2209"
+    },
+    {
+      "_id": "52771e0c7ede31f4cff5768e",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_58",
+      "registeredAt": "2026-10-21T06:08:42.544Z",
+      "ticketId": "TKT-SPO-2026-2210"
+    },
+    {
+      "_id": "e2c5cd146b18068450b961ac",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_59",
+      "registeredAt": "2026-10-11T13:14:26.335Z",
+      "ticketId": "TKT-SPO-2026-2211"
+    },
+    {
+      "_id": "57ed211f651866fdaed61444",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_61",
+      "registeredAt": "2026-10-10T05:37:32.180Z",
+      "ticketId": "TKT-TEC-2026-2212"
+    },
+    {
+      "_id": "b451cd6b0d0f80cc786cb752",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_62",
+      "registeredAt": "2026-10-07T11:04:19.699Z",
+      "ticketId": "TKT-TEC-2026-2213"
+    },
+    {
+      "_id": "788b3aef52aac7607e5459b1",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_65",
+      "registeredAt": "2026-10-20T13:52:08.370Z",
+      "ticketId": "TKT-ACA-2026-2214"
+    },
+    {
+      "_id": "2ac3df771cebb6bb7f195a7b",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_66",
+      "registeredAt": "2026-10-04T07:14:59.578Z",
+      "ticketId": "TKT-TEC-2026-2215"
+    },
+    {
+      "_id": "3e905040313e05d4e7ddbd7d",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_68",
+      "registeredAt": "2026-10-08T07:53:20.630Z",
+      "ticketId": "TKT-CUL-2026-2216"
+    },
+    {
+      "_id": "f2ad3c719655c9182dfb3ac6",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_69",
+      "registeredAt": "2026-10-08T10:26:18.371Z",
+      "ticketId": "TKT-TEC-2026-2217"
+    },
+    {
+      "_id": "d7925cb8d06442c488dc1338",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_70",
+      "registeredAt": "2026-10-22T12:31:18.276Z",
+      "ticketId": "TKT-SPO-2026-2218"
+    },
+    {
+      "_id": "6f66e1b10ed36b3143e0a048",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_72",
+      "registeredAt": "2026-10-22T13:48:46.093Z",
+      "ticketId": "TKT-TEC-2026-2219"
+    },
+    {
+      "_id": "697ee2247aaf39540d630796",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_73",
+      "registeredAt": "2026-10-14T04:36:47.147Z",
+      "ticketId": "TKT-SPO-2026-2220"
+    },
+    {
+      "_id": "0c1d3554b9de94767689ea7b",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_74",
+      "registeredAt": "2026-10-02T14:05:11.937Z",
+      "ticketId": "TKT-CUL-2026-2221"
+    },
+    {
+      "_id": "b57f0acc09faf8e7f2590a27",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_75",
+      "registeredAt": "2026-09-30T06:30:34.166Z",
+      "ticketId": "TKT-SPO-2026-2222"
+    },
+    {
+      "_id": "393178f7b9f8adcf777c3d95",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_76",
+      "registeredAt": "2026-10-06T11:31:04.735Z",
+      "ticketId": "TKT-ACA-2026-2223"
+    },
+    {
+      "_id": "a56aedcd5df7f122d6253a06",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_77",
+      "registeredAt": "2026-10-18T10:53:27.470Z",
+      "ticketId": "TKT-TEC-2026-2224"
+    },
+    {
+      "_id": "8efd5803f109b9707e6c4506",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_78",
+      "registeredAt": "2026-10-09T08:57:28.513Z",
+      "ticketId": "TKT-TEC-2026-2225"
+    },
+    {
+      "_id": "c59b55f88136616e31d411c3",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_79",
+      "registeredAt": "2026-10-05T08:33:16.479Z",
+      "ticketId": "TKT-TEC-2026-2226"
+    },
+    {
+      "_id": "453845ba7ff15a97dd9e3d0c",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_80",
+      "registeredAt": "2026-10-06T07:21:27.792Z",
+      "ticketId": "TKT-TEC-2026-2227"
+    },
+    {
+      "_id": "186de24c68873cc0c8dec719",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "admin_master_001",
+      "registeredAt": "2026-10-22T06:53:37.228Z",
+      "ticketId": "TKT-TEC-2026-2228"
+    },
+    {
+      "_id": "7fc06b6ca604737b50212394",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "student_alex_001",
+      "registeredAt": "2026-09-29T13:24:01.795Z",
+      "ticketId": "TKT-TEC-2026-2229"
+    },
+    {
+      "_id": "0d6a914e8fd12a079e0ac2b0",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "student_priya_002",
+      "registeredAt": "2026-10-03T09:34:12.706Z",
+      "ticketId": "TKT-TEC-2026-2230"
+    },
+    {
+      "_id": "52f46f6ccf8768fc7875cfc9",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "student_marcus_003",
+      "registeredAt": "2026-10-13T08:45:20.341Z",
+      "ticketId": "TKT-CUL-2026-2231"
+    },
+    {
+      "_id": "e9184625ddcf6828b6edd66b",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "student_david_005",
+      "registeredAt": "2026-10-17T11:34:47.696Z",
+      "ticketId": "TKT-CUL-2026-2232"
+    },
+    {
+      "_id": "abf14616afe479eb8297ae45",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_1",
+      "registeredAt": "2026-09-28T13:39:57.281Z",
+      "ticketId": "TKT-TEC-2026-2233"
+    },
+    {
+      "_id": "75ed1eccf7192c323637d24b",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_2",
+      "registeredAt": "2026-10-17T13:16:50.483Z",
+      "ticketId": "TKT-TEC-2026-2234"
+    },
+    {
+      "_id": "97984abad2d2e64512937706",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_3",
+      "registeredAt": "2026-10-09T11:50:32.566Z",
+      "ticketId": "TKT-TEC-2026-2235"
+    },
+    {
+      "_id": "f73bae650f310b76da5b111f",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_4",
+      "registeredAt": "2026-09-28T06:00:29.702Z",
+      "ticketId": "TKT-CUL-2026-2236"
+    },
+    {
+      "_id": "8e72215cbf61131cbcbac5d1",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_5",
+      "registeredAt": "2026-09-29T11:04:48.886Z",
+      "ticketId": "TKT-TEC-2026-2237"
+    },
+    {
+      "_id": "831e0dd1a550d1dc0ffb2cab",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_6",
+      "registeredAt": "2026-10-09T06:27:41.985Z",
+      "ticketId": "TKT-SPO-2026-2238"
+    },
+    {
+      "_id": "16a23b627aebdbf26515e1be",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_7",
+      "registeredAt": "2026-10-20T04:18:41.202Z",
+      "ticketId": "TKT-CUL-2026-2239"
+    },
+    {
+      "_id": "96351ebb51cb13775dbf1421",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_8",
+      "registeredAt": "2026-10-10T11:43:15.680Z",
+      "ticketId": "TKT-ACA-2026-2240"
+    },
+    {
+      "_id": "e1d8e95476f4bd875b7ec845",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_9",
+      "registeredAt": "2026-10-16T11:54:10.750Z",
+      "ticketId": "TKT-TEC-2026-2241"
+    },
+    {
+      "_id": "446f05155598fe4905d125f5",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_10",
+      "registeredAt": "2026-10-02T09:31:13.092Z",
+      "ticketId": "TKT-TEC-2026-2242"
+    },
+    {
+      "_id": "d4bd72ffd718f62519372755",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_13",
+      "registeredAt": "2026-10-14T05:08:11.737Z",
+      "ticketId": "TKT-ACA-2026-2243"
+    },
+    {
+      "_id": "db80b9bd0257eb2a407daa29",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_14",
+      "registeredAt": "2026-10-12T08:06:31.831Z",
+      "ticketId": "TKT-TEC-2026-2244"
+    },
+    {
+      "_id": "cf56d1f17590c6358491096e",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_15",
+      "registeredAt": "2026-09-28T09:18:24.634Z",
+      "ticketId": "TKT-SPO-2026-2245"
+    },
+    {
+      "_id": "459340b3f8f13c394050250f",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_16",
+      "registeredAt": "2026-10-22T07:13:32.652Z",
+      "ticketId": "TKT-TEC-2026-2246"
+    },
+    {
+      "_id": "7837d72537ec197396d69e4f",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_17",
+      "registeredAt": "2026-10-19T10:23:52.259Z",
+      "ticketId": "TKT-ACA-2026-2247"
+    },
+    {
+      "_id": "4bd515174cb59810e81b2451",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_19",
+      "registeredAt": "2026-10-21T13:10:54.929Z",
+      "ticketId": "TKT-TEC-2026-2248"
+    },
+    {
+      "_id": "55ff7f8396432ea256a286d3",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_23",
+      "registeredAt": "2026-10-17T09:19:05.595Z",
+      "ticketId": "TKT-TEC-2026-2249"
+    },
+    {
+      "_id": "743e0daef64ef6df58a296cc",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_24",
+      "registeredAt": "2026-10-22T08:30:46.593Z",
+      "ticketId": "TKT-CUL-2026-2250"
+    },
+    {
+      "_id": "41e98f295863b572cdcef008",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_25",
+      "registeredAt": "2026-10-19T13:30:43.992Z",
+      "ticketId": "TKT-SPO-2026-2251"
+    },
+    {
+      "_id": "a2d7e77fd445a543a2e967c7",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_26",
+      "registeredAt": "2026-10-21T07:41:54.977Z",
+      "ticketId": "TKT-CUL-2026-2252"
+    },
+    {
+      "_id": "3e89a96d4464c4262b37e1a1",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_27",
+      "registeredAt": "2026-10-04T04:45:47.686Z",
+      "ticketId": "TKT-SPO-2026-2253"
+    },
+    {
+      "_id": "752a1bc9f8ed6a192b5c8dad",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_28",
+      "registeredAt": "2026-10-04T08:48:40.138Z",
+      "ticketId": "TKT-TEC-2026-2254"
+    },
+    {
+      "_id": "29c5c805ae7afb95b7e49b51",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_31",
+      "registeredAt": "2026-10-14T11:14:24.115Z",
+      "ticketId": "TKT-SPO-2026-2255"
+    },
+    {
+      "_id": "24d2ed793a407fb595d3d8e6",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_32",
+      "registeredAt": "2026-10-22T04:19:09.974Z",
+      "ticketId": "TKT-TEC-2026-2256"
+    },
+    {
+      "_id": "8ed53e08ab1200ee5ffb3438",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_33",
+      "registeredAt": "2026-10-13T11:04:13.883Z",
+      "ticketId": "TKT-TEC-2026-2257"
+    },
+    {
+      "_id": "a5abc0d057338a302236f941",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_34",
+      "registeredAt": "2026-10-06T11:40:42.354Z",
+      "ticketId": "TKT-TEC-2026-2258"
+    },
+    {
+      "_id": "d620ee85c60194198ddeb039",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_35",
+      "registeredAt": "2026-10-06T11:39:39.078Z",
+      "ticketId": "TKT-ACA-2026-2259"
+    },
+    {
+      "_id": "0b31de032df1a4972bba0b83",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_37",
+      "registeredAt": "2026-10-08T05:04:32.751Z",
+      "ticketId": "TKT-TEC-2026-2260"
+    },
+    {
+      "_id": "0a6f551e718601039cd4503b",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_38",
+      "registeredAt": "2026-10-21T06:25:27.655Z",
+      "ticketId": "TKT-TEC-2026-2261"
+    },
+    {
+      "_id": "40abfbc97d2541ad01b3811a",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_39",
+      "registeredAt": "2026-10-03T07:48:58.438Z",
+      "ticketId": "TKT-SPO-2026-2262"
+    },
+    {
+      "_id": "fdeb3eac0c0ea55a75676206",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_40",
+      "registeredAt": "2026-09-30T04:33:30.221Z",
+      "ticketId": "TKT-TEC-2026-2263"
+    },
+    {
+      "_id": "4819ca863a6bff46c0a2119e",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_41",
+      "registeredAt": "2026-10-17T09:07:27.802Z",
+      "ticketId": "TKT-TEC-2026-2264"
+    },
+    {
+      "_id": "e8b4ba33a0167d9cadb937c0",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_42",
+      "registeredAt": "2026-10-09T06:31:18.446Z",
+      "ticketId": "TKT-SPO-2026-2265"
+    },
+    {
+      "_id": "82ff22c87cc27320133be789",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_43",
+      "registeredAt": "2026-09-29T09:44:46.465Z",
+      "ticketId": "TKT-SPO-2026-2266"
+    },
+    {
+      "_id": "3d50126dbd72186984960d99",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_44",
+      "registeredAt": "2026-10-19T07:10:24.806Z",
+      "ticketId": "TKT-CUL-2026-2267"
+    },
+    {
+      "_id": "e5d270a7852fd37bd06cda04",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_45",
+      "registeredAt": "2026-10-02T08:18:49.259Z",
+      "ticketId": "TKT-TEC-2026-2268"
+    },
+    {
+      "_id": "629c5e757a971d94e077a467",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_46",
+      "registeredAt": "2026-09-29T08:17:49.436Z",
+      "ticketId": "TKT-TEC-2026-2269"
+    },
+    {
+      "_id": "f4760249d134ee377f2750bc",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_48",
+      "registeredAt": "2026-10-11T10:57:49.330Z",
+      "ticketId": "TKT-TEC-2026-2270"
+    },
+    {
+      "_id": "7bdcefbaeecf2b74535e6f01",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_50",
+      "registeredAt": "2026-09-29T11:54:59.273Z",
+      "ticketId": "TKT-TEC-2026-2271"
+    },
+    {
+      "_id": "3b5c3e3d42cecb2f1e1f42be",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_51",
+      "registeredAt": "2026-10-11T07:10:26.911Z",
+      "ticketId": "TKT-SPO-2026-2272"
+    },
+    {
+      "_id": "31ecf3c25888cc4159cdda4f",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_52",
+      "registeredAt": "2026-10-04T09:50:51.045Z",
+      "ticketId": "TKT-TEC-2026-2273"
+    },
+    {
+      "_id": "bb6c5b0457582120ccb23987",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_53",
+      "registeredAt": "2026-10-01T07:54:08.428Z",
+      "ticketId": "TKT-ACA-2026-2274"
+    },
+    {
+      "_id": "e07b6ee16f7879ed24f0e90b",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_54",
+      "registeredAt": "2026-10-08T05:54:43.722Z",
+      "ticketId": "TKT-TEC-2026-2275"
+    },
+    {
+      "_id": "2ad8dce76cd673e2f1846773",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_55",
+      "registeredAt": "2026-10-12T05:18:24.095Z",
+      "ticketId": "TKT-SPO-2026-2276"
+    },
+    {
+      "_id": "1a16b8d45df0df41713a9f93",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_56",
+      "registeredAt": "2026-10-05T06:08:09.040Z",
+      "ticketId": "TKT-CUL-2026-2277"
+    },
+    {
+      "_id": "4c5da2e53cb789f8fe01f9f6",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_58",
+      "registeredAt": "2026-10-10T08:24:16.806Z",
+      "ticketId": "TKT-ACA-2026-2278"
+    },
+    {
+      "_id": "6423191bf97662f9b85444ef",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_59",
+      "registeredAt": "2026-10-15T13:51:15.106Z",
+      "ticketId": "TKT-ACA-2026-2279"
+    },
+    {
+      "_id": "bb21301899b91d9f4a529821",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_60",
+      "registeredAt": "2026-10-04T04:41:16.957Z",
+      "ticketId": "TKT-CUL-2026-2280"
+    },
+    {
+      "_id": "c73128dd64097c06827ba898",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_61",
+      "registeredAt": "2026-09-28T09:18:05.303Z",
+      "ticketId": "TKT-SPO-2026-2281"
+    },
+    {
+      "_id": "0791c3d049223b1236520c01",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_63",
+      "registeredAt": "2026-10-19T07:44:07.623Z",
+      "ticketId": "TKT-CUL-2026-2282"
+    },
+    {
+      "_id": "75bd1ff5f2a839c2182c544f",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_64",
+      "registeredAt": "2026-10-16T11:51:03.964Z",
+      "ticketId": "TKT-CUL-2026-2283"
+    },
+    {
+      "_id": "6f0fa4466c6df79fc7e6fd06",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_65",
+      "registeredAt": "2026-10-08T07:04:15.538Z",
+      "ticketId": "TKT-CUL-2026-2284"
+    },
+    {
+      "_id": "04bcbf46e1cefe2fa1336047",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_66",
+      "registeredAt": "2026-10-04T06:46:00.274Z",
+      "ticketId": "TKT-ACA-2026-2285"
+    },
+    {
+      "_id": "9f1bee23f4970de44c52e535",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_67",
+      "registeredAt": "2026-10-21T05:18:56.879Z",
+      "ticketId": "TKT-SPO-2026-2286"
+    },
+    {
+      "_id": "8d81405ddc0939f9f2570309",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_68",
+      "registeredAt": "2026-10-11T06:19:23.929Z",
+      "ticketId": "TKT-SPO-2026-2287"
+    },
+    {
+      "_id": "9cadb2b81e32f46b40fe563d",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_69",
+      "registeredAt": "2026-10-10T10:17:20.627Z",
+      "ticketId": "TKT-SPO-2026-2288"
+    },
+    {
+      "_id": "293ed03a22b4698d9c0f81f1",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_70",
+      "registeredAt": "2026-10-03T12:28:08.667Z",
+      "ticketId": "TKT-TEC-2026-2289"
+    },
+    {
+      "_id": "ecc68bf60fea5d6fbac5098f",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_71",
+      "registeredAt": "2026-10-09T10:53:46.361Z",
+      "ticketId": "TKT-TEC-2026-2290"
+    },
+    {
+      "_id": "4353b3b922ae492869b72956",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_72",
+      "registeredAt": "2026-10-02T06:26:37.500Z",
+      "ticketId": "TKT-CUL-2026-2291"
+    },
+    {
+      "_id": "b42a2dd9bc38e41fdf8ad94d",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_75",
+      "registeredAt": "2026-10-15T04:56:21.396Z",
+      "ticketId": "TKT-ACA-2026-2292"
+    },
+    {
+      "_id": "7a571ad51a96480f3c49a08f",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_76",
+      "registeredAt": "2026-10-03T09:57:51.792Z",
+      "ticketId": "TKT-TEC-2026-2293"
+    },
+    {
+      "_id": "3c50be9997906f45b58ea349",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_77",
+      "registeredAt": "2026-10-03T09:19:20.364Z",
+      "ticketId": "TKT-SPO-2026-2294"
+    },
+    {
+      "_id": "ed9f35502dea8b10b2cd3d1a",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_79",
+      "registeredAt": "2026-10-10T09:28:55.679Z",
+      "ticketId": "TKT-SPO-2026-2295"
+    },
+    {
+      "_id": "de3a0394c97c9a3bed4a8784",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_80",
+      "registeredAt": "2026-10-18T12:41:54.200Z",
+      "ticketId": "TKT-TEC-2026-2296"
+    },
+    {
+      "_id": "b47a8b89d081df676c14a490",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "admin_master_001",
+      "registeredAt": "2026-10-04T12:41:24.513Z",
+      "ticketId": "TKT-CUL-2026-2297"
+    },
+    {
+      "_id": "3e5bade3deb65779939c622b",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "student_alex_001",
+      "registeredAt": "2026-10-06T06:39:57.376Z",
+      "ticketId": "TKT-TEC-2026-2298"
+    },
+    {
+      "_id": "4e11ea529982c08885462b00",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "student_marcus_003",
+      "registeredAt": "2026-10-19T04:18:27.784Z",
+      "ticketId": "TKT-TEC-2026-2299"
+    },
+    {
+      "_id": "878aac3a19041ffc0895b1dd",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "student_sarah_004",
+      "registeredAt": "2026-10-18T08:58:20.007Z",
+      "ticketId": "TKT-ACA-2026-2300"
+    },
+    {
+      "_id": "0cd92169690e4bcffe4554bf",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_1",
+      "registeredAt": "2026-10-15T10:11:54.259Z",
+      "ticketId": "TKT-CUL-2026-2301"
+    },
+    {
+      "_id": "9782ed7e9b56cb2f19d63046",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_2",
+      "registeredAt": "2026-10-18T09:14:56.435Z",
+      "ticketId": "TKT-SPO-2026-2302"
+    },
+    {
+      "_id": "04f1018166f51184e07f5861",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_3",
+      "registeredAt": "2026-10-17T08:58:04.315Z",
+      "ticketId": "TKT-SPO-2026-2303"
+    },
+    {
+      "_id": "1c9ac155b6f96389124bccca",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_4",
+      "registeredAt": "2026-10-21T09:59:47.553Z",
+      "ticketId": "TKT-ACA-2026-2304"
+    },
+    {
+      "_id": "fb0e3ee91a0b759bf07f2787",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_7",
+      "registeredAt": "2026-10-20T05:59:20.388Z",
+      "ticketId": "TKT-ACA-2026-2305"
+    },
+    {
+      "_id": "83d744e74445918a205f788b",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_8",
+      "registeredAt": "2026-10-06T10:24:37.109Z",
+      "ticketId": "TKT-ACA-2026-2306"
+    },
+    {
+      "_id": "d9513aec29fc28d7fd5cf922",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_12",
+      "registeredAt": "2026-10-19T13:11:25.413Z",
+      "ticketId": "TKT-CUL-2026-2307"
+    },
+    {
+      "_id": "3cf77bd058dd02b1925b27a0",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_13",
+      "registeredAt": "2026-10-06T12:24:10.202Z",
+      "ticketId": "TKT-SPO-2026-2308"
+    },
+    {
+      "_id": "3c65ba0e20b6d87dc29e1387",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_14",
+      "registeredAt": "2026-10-10T11:47:54.863Z",
+      "ticketId": "TKT-SPO-2026-2309"
+    },
+    {
+      "_id": "c7000e8a76745d464966f182",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_15",
+      "registeredAt": "2026-10-16T09:15:00.548Z",
+      "ticketId": "TKT-TEC-2026-2310"
+    },
+    {
+      "_id": "4b7b10f757e51c41f581cba0",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_16",
+      "registeredAt": "2026-10-11T05:34:52.488Z",
+      "ticketId": "TKT-SPO-2026-2311"
+    },
+    {
+      "_id": "06c74a4bfe401e2c5ec948b7",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_17",
+      "registeredAt": "2026-10-16T09:08:36.649Z",
+      "ticketId": "TKT-TEC-2026-2312"
+    },
+    {
+      "_id": "3c0404ec1c2e33a89a3f8d45",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_18",
+      "registeredAt": "2026-10-04T05:16:35.900Z",
+      "ticketId": "TKT-TEC-2026-2313"
+    },
+    {
+      "_id": "a616461443d7fac4ff25d5ec",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_19",
+      "registeredAt": "2026-10-07T05:03:13.377Z",
+      "ticketId": "TKT-TEC-2026-2314"
+    },
+    {
+      "_id": "c15fd9723c296ef88353d7e6",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_20",
+      "registeredAt": "2026-10-09T13:18:14.282Z",
+      "ticketId": "TKT-TEC-2026-2315"
+    },
+    {
+      "_id": "4f0e27a85e3a8bb924803a84",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_21",
+      "registeredAt": "2026-09-30T08:53:42.722Z",
+      "ticketId": "TKT-TEC-2026-2316"
+    },
+    {
+      "_id": "35bb243804f3f16d4fd41f37",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_24",
+      "registeredAt": "2026-10-19T10:47:26.036Z",
+      "ticketId": "TKT-CUL-2026-2317"
+    },
+    {
+      "_id": "1cd3f3aba0dc20ee84f562f9",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_26",
+      "registeredAt": "2026-10-11T09:34:21.922Z",
+      "ticketId": "TKT-TEC-2026-2318"
+    },
+    {
+      "_id": "d1fa5f869a71dbcb419c743e",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_29",
+      "registeredAt": "2026-10-15T14:02:40.694Z",
+      "ticketId": "TKT-CUL-2026-2319"
+    },
+    {
+      "_id": "d75b9cd0cec535b6d1a059be",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_30",
+      "registeredAt": "2026-10-01T11:24:32.994Z",
+      "ticketId": "TKT-TEC-2026-2320"
+    },
+    {
+      "_id": "aca820bfcea8051a022c4039",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_32",
+      "registeredAt": "2026-10-09T14:12:18.481Z",
+      "ticketId": "TKT-ACA-2026-2321"
+    },
+    {
+      "_id": "b9ffd564cc1c215219de5475",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_33",
+      "registeredAt": "2026-10-17T10:43:11.457Z",
+      "ticketId": "TKT-SPO-2026-2322"
+    },
+    {
+      "_id": "b5a23db7e2dc05dd49f84307",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_35",
+      "registeredAt": "2026-10-01T07:59:38.512Z",
+      "ticketId": "TKT-SPO-2026-2323"
+    },
+    {
+      "_id": "4536f509462cfabd66b8861c",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_39",
+      "registeredAt": "2026-10-03T08:39:47.702Z",
+      "ticketId": "TKT-CUL-2026-2324"
+    },
+    {
+      "_id": "afcaba0ca8c29bd069300be0",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_40",
+      "registeredAt": "2026-09-30T10:50:38.855Z",
+      "ticketId": "TKT-ACA-2026-2325"
+    },
+    {
+      "_id": "a5748c175deef6a0ddf8045d",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_41",
+      "registeredAt": "2026-10-08T08:01:09.111Z",
+      "ticketId": "TKT-SPO-2026-2326"
+    },
+    {
+      "_id": "3cf7c258831fe6b4e2dab94e",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_42",
+      "registeredAt": "2026-10-22T12:09:43.128Z",
+      "ticketId": "TKT-CUL-2026-2327"
+    },
+    {
+      "_id": "2703c3ad6547cf0c13433ab8",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_45",
+      "registeredAt": "2026-10-12T09:29:21.595Z",
+      "ticketId": "TKT-ACA-2026-2328"
+    },
+    {
+      "_id": "8d74290cd8420399a1285c2a",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_46",
+      "registeredAt": "2026-10-18T11:42:32.466Z",
+      "ticketId": "TKT-CUL-2026-2329"
+    },
+    {
+      "_id": "cbc2d267cb193152a8414226",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_47",
+      "registeredAt": "2026-10-22T12:32:54.953Z",
+      "ticketId": "TKT-CUL-2026-2330"
+    },
+    {
+      "_id": "695b7a0ec8bdeed8b0bc9fc2",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_48",
+      "registeredAt": "2026-10-17T10:11:50.039Z",
+      "ticketId": "TKT-CUL-2026-2331"
+    },
+    {
+      "_id": "91e9087c1abedf92a75823c6",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_49",
+      "registeredAt": "2026-10-03T07:02:00.164Z",
+      "ticketId": "TKT-CUL-2026-2332"
+    },
+    {
+      "_id": "100eb052064b143289841bf1",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_51",
+      "registeredAt": "2026-10-11T06:59:57.605Z",
+      "ticketId": "TKT-CUL-2026-2333"
+    },
+    {
+      "_id": "950ab8cf4a496d65ac710fbd",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_53",
+      "registeredAt": "2026-10-12T09:19:42.565Z",
+      "ticketId": "TKT-CUL-2026-2334"
+    },
+    {
+      "_id": "2f2731b192dcce1831b5d578",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_55",
+      "registeredAt": "2026-09-30T12:06:30.213Z",
+      "ticketId": "TKT-SPO-2026-2335"
+    },
+    {
+      "_id": "80b8a474ce3411f0f16dc701",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_56",
+      "registeredAt": "2026-10-06T07:40:13.497Z",
+      "ticketId": "TKT-CUL-2026-2336"
+    },
+    {
+      "_id": "1d5863c3c2d17d3dc5a64e56",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_57",
+      "registeredAt": "2026-10-08T04:21:18.858Z",
+      "ticketId": "TKT-CUL-2026-2337"
+    },
+    {
+      "_id": "d0a30ecc2f02970fd1355dd6",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_58",
+      "registeredAt": "2026-10-13T08:18:28.791Z",
+      "ticketId": "TKT-ACA-2026-2338"
+    },
+    {
+      "_id": "1f05f18c9a24fd42aa3c4fc3",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_59",
+      "registeredAt": "2026-10-04T11:05:59.995Z",
+      "ticketId": "TKT-CUL-2026-2339"
+    },
+    {
+      "_id": "7be10d08685c5b00b380d568",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_60",
+      "registeredAt": "2026-10-07T08:42:39.469Z",
+      "ticketId": "TKT-TEC-2026-2340"
+    },
+    {
+      "_id": "c94781382ed75873e48f412b",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_61",
+      "registeredAt": "2026-10-15T12:38:22.841Z",
+      "ticketId": "TKT-ACA-2026-2341"
+    },
+    {
+      "_id": "c81a1ca9fde2fb3a21de50a8",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_62",
+      "registeredAt": "2026-10-07T07:12:31.762Z",
+      "ticketId": "TKT-TEC-2026-2342"
+    },
+    {
+      "_id": "8b90dd0245d37643a744c4c6",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_63",
+      "registeredAt": "2026-10-09T06:59:22.314Z",
+      "ticketId": "TKT-ACA-2026-2343"
+    },
+    {
+      "_id": "d0a60d6e0cf970c5da916d72",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_66",
+      "registeredAt": "2026-10-09T13:50:11.937Z",
+      "ticketId": "TKT-SPO-2026-2344"
+    },
+    {
+      "_id": "534475a5181a6c27c1e1e959",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_67",
+      "registeredAt": "2026-10-22T09:53:17.648Z",
+      "ticketId": "TKT-CUL-2026-2345"
+    },
+    {
+      "_id": "21644b5e8099178581dc1c58",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_68",
+      "registeredAt": "2026-10-01T09:26:18.561Z",
+      "ticketId": "TKT-ACA-2026-2346"
+    },
+    {
+      "_id": "fb20d8330e6b52659a70d584",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_69",
+      "registeredAt": "2026-10-04T11:12:59.927Z",
+      "ticketId": "TKT-CUL-2026-2347"
+    },
+    {
+      "_id": "647b6fdca53c8b7b54e722d2",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_70",
+      "registeredAt": "2026-10-16T12:03:41.175Z",
+      "ticketId": "TKT-CUL-2026-2348"
+    },
+    {
+      "_id": "7be16775677f41a0bfb8360b",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_72",
+      "registeredAt": "2026-10-07T06:34:27.889Z",
+      "ticketId": "TKT-SPO-2026-2349"
+    },
+    {
+      "_id": "c44e3585ee77f4208a22a13d",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_74",
+      "registeredAt": "2026-10-09T12:34:55.391Z",
+      "ticketId": "TKT-CUL-2026-2350"
+    },
+    {
+      "_id": "80df81b572183c81e342b15b",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_75",
+      "registeredAt": "2026-10-05T05:27:57.310Z",
+      "ticketId": "TKT-CUL-2026-2351"
+    },
+    {
+      "_id": "075bd13ce3f07bd93f589db8",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_76",
+      "registeredAt": "2026-10-14T09:07:16.733Z",
+      "ticketId": "TKT-SPO-2026-2352"
+    },
+    {
+      "_id": "dd81d61d0b9fbe39fb2dad70",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_77",
+      "registeredAt": "2026-10-16T07:18:21.336Z",
+      "ticketId": "TKT-TEC-2026-2353"
+    },
+    {
+      "_id": "e3061fc3da1c4449c4de4a92",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_78",
+      "registeredAt": "2026-10-14T09:03:31.716Z",
+      "ticketId": "TKT-CUL-2026-2354"
+    },
+    {
+      "_id": "b47f727511c4126cbc1529e4",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_80",
+      "registeredAt": "2026-10-20T09:18:16.488Z",
+      "ticketId": "TKT-CUL-2026-2355"
+    },
+    {
+      "_id": "998064934de64e4ddebadce7",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "student_marcus_003",
+      "registeredAt": "2026-10-03T04:17:09.094Z",
+      "ticketId": "TKT-ACA-2026-2356"
+    },
+    {
+      "_id": "9027817bb055b26e387cf0cb",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "student_sarah_004",
+      "registeredAt": "2026-10-20T11:20:03.481Z",
+      "ticketId": "TKT-SPO-2026-2357"
+    },
+    {
+      "_id": "83218c2852a88d8463e22c97",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "student_david_005",
+      "registeredAt": "2026-10-18T06:13:28.264Z",
+      "ticketId": "TKT-CUL-2026-2358"
+    },
+    {
+      "_id": "9345f946e8a90daf57a6852d",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_3",
+      "registeredAt": "2026-10-03T06:58:18.924Z",
+      "ticketId": "TKT-ACA-2026-2359"
+    },
+    {
+      "_id": "0efd204d715f0d26ffe97d44",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_5",
+      "registeredAt": "2026-10-14T07:58:53.932Z",
+      "ticketId": "TKT-ACA-2026-2360"
+    },
+    {
+      "_id": "adae4beabb155e2f2e5c93ef",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_6",
+      "registeredAt": "2026-10-17T11:09:57.150Z",
+      "ticketId": "TKT-SPO-2026-2361"
+    },
+    {
+      "_id": "a49cbb262bf5808d9565c062",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_7",
+      "registeredAt": "2026-10-07T12:13:39.061Z",
+      "ticketId": "TKT-ACA-2026-2362"
+    },
+    {
+      "_id": "875aa4a21c898c7b12a18cf5",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_9",
+      "registeredAt": "2026-10-02T05:48:04.765Z",
+      "ticketId": "TKT-TEC-2026-2363"
+    },
+    {
+      "_id": "29650b0179bcd41318fbf9be",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_10",
+      "registeredAt": "2026-10-01T07:46:07.619Z",
+      "ticketId": "TKT-TEC-2026-2364"
+    },
+    {
+      "_id": "373823f06f7a4fe24a1a3356",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_11",
+      "registeredAt": "2026-10-21T04:25:29.121Z",
+      "ticketId": "TKT-CUL-2026-2365"
+    },
+    {
+      "_id": "80c7bc96d27fa3928ba52c55",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_13",
+      "registeredAt": "2026-09-29T09:40:59.237Z",
+      "ticketId": "TKT-TEC-2026-2366"
+    },
+    {
+      "_id": "c759d630b538b0eb324af8d7",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_16",
+      "registeredAt": "2026-10-09T09:53:00.876Z",
+      "ticketId": "TKT-TEC-2026-2367"
+    },
+    {
+      "_id": "1c6815185d85b4d85a851e2a",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_18",
+      "registeredAt": "2026-10-15T10:42:20.114Z",
+      "ticketId": "TKT-TEC-2026-2368"
+    },
+    {
+      "_id": "a116565a8ee74232f67e2465",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_19",
+      "registeredAt": "2026-10-17T10:47:27.682Z",
+      "ticketId": "TKT-ACA-2026-2369"
+    },
+    {
+      "_id": "67ede6b66d434cea648edb79",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_20",
+      "registeredAt": "2026-10-10T05:31:38.742Z",
+      "ticketId": "TKT-ACA-2026-2370"
+    },
+    {
+      "_id": "e7a42487b750522f32111758",
+      "eventId": "d99deeac49ca7e8a99b37171",
+      "userId": "stu_gen_21",
+      "registeredAt": "2026-10-18T12:00:42.106Z",
+      "ticketId": "TKT-SPO-2026-2371"
+    },
+    {
+      "_id": "d082eb38ff743f6f96421d4d",
+      "eventId": "beeec136b0730e859c89b428",
+      "userId": "stu_gen_23",
+      "registeredAt": "2026-10-19T06:00:14.222Z",
+      "ticketId": "TKT-ACA-2026-2372"
+    },
+    {
+      "_id": "352cc5b75f3ea8e9830d7d4c",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_26",
+      "registeredAt": "2026-10-12T11:49:42.210Z",
+      "ticketId": "TKT-TEC-2026-2373"
+    },
+    {
+      "_id": "841ba2c7767298325631413e",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_28",
+      "registeredAt": "2026-10-09T07:09:58.596Z",
+      "ticketId": "TKT-SPO-2026-2374"
+    },
+    {
+      "_id": "e019f313b702aedc20e1fa14",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_29",
+      "registeredAt": "2026-10-02T11:02:03.809Z",
+      "ticketId": "TKT-TEC-2026-2375"
+    },
+    {
+      "_id": "30ae9419e0a8032caf332d06",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_32",
+      "registeredAt": "2026-10-12T06:34:45.228Z",
+      "ticketId": "TKT-SPO-2026-2376"
+    },
+    {
+      "_id": "11489ae03375d21368fdcaaf",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_33",
+      "registeredAt": "2026-10-20T14:01:40.142Z",
+      "ticketId": "TKT-CUL-2026-2377"
+    },
+    {
+      "_id": "5d3b5b105713f0dd0c0c1b91",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_34",
+      "registeredAt": "2026-10-16T07:19:24.222Z",
+      "ticketId": "TKT-TEC-2026-2378"
+    },
+    {
+      "_id": "871679967d8afe1412b93b49",
+      "eventId": "692d0e88264fef50df8627ad",
+      "userId": "stu_gen_35",
+      "registeredAt": "2026-10-14T12:15:32.540Z",
+      "ticketId": "TKT-SPO-2026-2379"
+    },
+    {
+      "_id": "f147eb6b9ee20071b88b8d6d",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_37",
+      "registeredAt": "2026-10-02T13:03:05.479Z",
+      "ticketId": "TKT-TEC-2026-2380"
+    },
+    {
+      "_id": "9d90e262606506d5bad7659f",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_38",
+      "registeredAt": "2026-09-28T06:38:08.134Z",
+      "ticketId": "TKT-ACA-2026-2381"
+    },
+    {
+      "_id": "4037c9e184b1866e37785afe",
+      "eventId": "7319693bd6662ffebbfba3ae",
+      "userId": "stu_gen_39",
+      "registeredAt": "2026-10-02T12:36:28.404Z",
+      "ticketId": "TKT-CUL-2026-2382"
+    },
+    {
+      "_id": "a4cadad44a0acb3ef1a74628",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_40",
+      "registeredAt": "2026-10-14T07:06:28.551Z",
+      "ticketId": "TKT-TEC-2026-2383"
+    },
+    {
+      "_id": "cc33817686dc9215f02e8e49",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_42",
+      "registeredAt": "2026-10-11T09:47:34.113Z",
+      "ticketId": "TKT-ACA-2026-2384"
+    },
+    {
+      "_id": "f814ebbadca69028527c25dd",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_44",
+      "registeredAt": "2026-09-29T06:27:19.315Z",
+      "ticketId": "TKT-CUL-2026-2385"
+    },
+    {
+      "_id": "9d565bab039b9459d57a2a8a",
+      "eventId": "e5ddcad047fc9369fee7e838",
+      "userId": "stu_gen_45",
+      "registeredAt": "2026-10-01T13:12:25.759Z",
+      "ticketId": "TKT-TEC-2026-2386"
+    },
+    {
+      "_id": "0eac385b7da3cc77203c5131",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_46",
+      "registeredAt": "2026-10-23T12:17:04.124Z",
+      "ticketId": "TKT-SPO-2026-2387"
+    },
+    {
+      "_id": "6bc354f1e4787c2813302888",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_47",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-ACA-2026-2388"
+    },
+    {
+      "_id": "9cc5dd0d33061974534b7e94",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_48",
+      "registeredAt": "2026-10-23T12:17:04.124Z",
+      "ticketId": "TKT-SPO-2026-2389"
+    },
+    {
+      "_id": "a852eef2e79af050e3f57ea6",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_49",
+      "registeredAt": "2026-10-23T11:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2390"
+    },
+    {
+      "_id": "7b950ea4f9b3846fb95d4324",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_50",
+      "registeredAt": "2026-10-23T13:17:04.124Z",
+      "ticketId": "TKT-SPO-2026-2391"
+    },
+    {
+      "_id": "6ccbf05c4f8a62732d550163",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_51",
+      "registeredAt": "2026-10-23T14:17:04.124Z",
+      "ticketId": "TKT-CUL-2026-2392"
+    },
+    {
+      "_id": "5216150a1155718adeb25d67",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_53",
+      "registeredAt": "2026-10-23T12:47:04.124Z",
+      "ticketId": "TKT-SPO-2026-2393"
+    },
+    {
+      "_id": "243e56f0453635658ca0086c",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_54",
+      "registeredAt": "2026-10-23T13:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2394"
+    },
+    {
+      "_id": "6cf148d33e26fcc29bd50a19",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_56",
+      "registeredAt": "2026-10-23T14:17:04.124Z",
+      "ticketId": "TKT-CUL-2026-2395"
+    },
+    {
+      "_id": "01e7559e8a25ccc4771f5701",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_60",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-SPO-2026-2396"
+    },
+    {
+      "_id": "1bb9ca927cf4d109210f849b",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_62",
+      "registeredAt": "2026-10-23T11:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2397"
+    },
+    {
+      "_id": "bc708cc069d0ab22318c9c9c",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_64",
+      "registeredAt": "2026-10-23T13:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2398"
+    },
+    {
+      "_id": "ac6917878cc3623255f17f00",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_65",
+      "registeredAt": "2026-10-23T13:17:04.124Z",
+      "ticketId": "TKT-CUL-2026-2399"
+    },
+    {
+      "_id": "270986baa65904ddc7f01f24",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_66",
+      "registeredAt": "2026-10-23T11:17:04.124Z",
+      "ticketId": "TKT-CUL-2026-2400"
+    },
+    {
+      "_id": "5af9f232cb9f4d29e8be4b41",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_67",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-ACA-2026-2401"
+    },
+    {
+      "_id": "7107d66423a48f0b459a8a5e",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_68",
+      "registeredAt": "2026-10-23T13:17:04.124Z",
+      "ticketId": "TKT-SPO-2026-2402"
+    },
+    {
+      "_id": "bc3bac791b3c4b918ba035f7",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_69",
+      "registeredAt": "2026-10-23T13:47:04.124Z",
+      "ticketId": "TKT-TEC-2026-2403"
+    },
+    {
+      "_id": "2aa681f960fcb295cec82895",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_71",
+      "registeredAt": "2026-10-23T11:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2404"
+    },
+    {
+      "_id": "bbfbaca49a892881b7c7c51a",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_73",
+      "registeredAt": "2026-10-23T13:47:04.124Z",
+      "ticketId": "TKT-TEC-2026-2405"
+    },
+    {
+      "_id": "6b886f82687628a094ae6ec0",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_75",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2406"
+    },
+    {
+      "_id": "62edf722b737db2cc5538ccb",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_76",
+      "registeredAt": "2026-10-23T11:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2407"
+    },
+    {
+      "_id": "494cff4ced8f9f97d5e35126",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_77",
+      "registeredAt": "2026-10-23T14:17:04.124Z",
+      "ticketId": "TKT-CUL-2026-2408"
+    },
+    {
+      "_id": "fffcfd1d45bca053669d024b",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_78",
+      "registeredAt": "2026-10-23T11:17:04.124Z",
+      "ticketId": "TKT-CUL-2026-2409"
+    },
+    {
+      "_id": "a27a269e7a212014da93599a",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_80",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2410"
+    },
+    {
+      "_id": "1fbf3933bd91736f4be6b621",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "admin_master_001",
+      "registeredAt": "2026-10-23T14:17:04.124Z",
+      "ticketId": "TKT-ACA-2026-2411"
+    },
+    {
+      "_id": "ea9ec7018d148d6af75e1754",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "student_priya_002",
+      "registeredAt": "2026-10-23T13:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2412"
+    },
+    {
+      "_id": "d10f50029a7ad4de0c8b402a",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "student_david_005",
+      "registeredAt": "2026-10-23T12:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2413"
+    },
+    {
+      "_id": "9951e97abac050589c6463dc",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_1",
+      "registeredAt": "2026-10-23T12:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2414"
+    },
+    {
+      "_id": "754ec9074abdd090fd2d4609",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_2",
+      "registeredAt": "2026-10-23T13:17:04.124Z",
+      "ticketId": "TKT-SPO-2026-2415"
+    },
+    {
+      "_id": "b0902ae564212a254067689b",
+      "eventId": "a3ccdd42e06964b652633ea6",
+      "userId": "stu_gen_4",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-TEC-2026-2416"
+    },
+    {
+      "_id": "91a409187d9011d67b9db74e",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_7",
+      "registeredAt": "2026-10-23T12:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2417"
+    },
+    {
+      "_id": "372fe28723c5137628106f25",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_8",
+      "registeredAt": "2026-10-23T14:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2418"
+    },
+    {
+      "_id": "08b292ffc54420fb47bd4588",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_9",
+      "registeredAt": "2026-10-23T12:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2419"
+    },
+    {
+      "_id": "a3c9728da2e86a896a292744",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_11",
+      "registeredAt": "2026-10-23T14:17:04.124Z",
+      "ticketId": "TKT-ACA-2026-2420"
+    },
+    {
+      "_id": "55b00e80be07fce81c1acd0c",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_12",
+      "registeredAt": "2026-10-23T11:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2421"
+    },
+    {
+      "_id": "ba347ba6211126eff51a2df5",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "stu_gen_17",
+      "registeredAt": "2026-10-23T11:17:04.124Z",
+      "ticketId": "TKT-ACA-2026-2422"
+    },
+    {
+      "_id": "d510cd2de581095da1cb92d9",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_18",
+      "registeredAt": "2026-10-23T13:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2423"
+    },
+    {
+      "_id": "2d2a37fbfd2e705a7949e87d",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_21",
+      "registeredAt": "2026-10-23T12:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2424"
+    },
+    {
+      "_id": "0b637027272341244cb4c420",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_22",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2425"
+    },
+    {
+      "_id": "22c09f363676facd510820f0",
+      "eventId": "54a26a63627154b6f574ef39",
+      "userId": "stu_gen_23",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2426"
+    },
+    {
+      "_id": "986d83796c7e421d66a9fae9",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_26",
+      "registeredAt": "2026-10-23T14:17:04.124Z",
+      "ticketId": "TKT-CUL-2026-2427"
+    },
+    {
+      "_id": "a023274ecc6214c611fd1449",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_27",
+      "registeredAt": "2026-10-23T12:17:04.124Z",
+      "ticketId": "TKT-SPO-2026-2428"
+    },
+    {
+      "_id": "65f8a0d4a232420ee163c1de",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_31",
+      "registeredAt": "2026-10-23T11:47:04.124Z",
+      "ticketId": "TKT-TEC-2026-2429"
+    },
+    {
+      "_id": "c68330f144a28f71eaccc4e8",
+      "eventId": "c729fc07e2db45ec2543a1a5",
+      "userId": "stu_gen_33",
+      "registeredAt": "2026-10-23T10:47:04.124Z",
+      "ticketId": "TKT-TEC-2026-2430"
+    },
+    {
+      "_id": "a01f4578abe5d8164d392b6b",
+      "eventId": "bf1f6fd2f0d32bebd9f44ab9",
+      "userId": "stu_gen_35",
+      "registeredAt": "2026-10-23T12:47:04.124Z",
+      "ticketId": "TKT-CUL-2026-2431"
+    },
+    {
+      "_id": "eb38a5397e5b268410ff7f97",
+      "eventId": "d0f6f977e03a8301aa059b21",
+      "userId": "stu_gen_37",
+      "registeredAt": "2026-10-23T12:47:04.124Z",
+      "ticketId": "TKT-SPO-2026-2432"
+    },
+    {
+      "_id": "40789cc94a724f84358886cb",
+      "eventId": "b7944182aab7ee18e4bf97dc",
+      "userId": "stu_gen_41",
+      "registeredAt": "2026-10-23T12:17:04.124Z",
+      "ticketId": "TKT-TEC-2026-2433"
+    },
+    {
+      "_id": "57460bc022c5b049f96188d3",
+      "eventId": "3592e15f6ab3b21bcfab53e6",
+      "userId": "demo_1792766093902",
+      "registeredAt": "2026-10-23T14:35:52.964Z",
+      "ticketId": "TKT-ACA-2611-QTXZ"
+    }
+  ]
+}
